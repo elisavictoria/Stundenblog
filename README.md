@@ -25,6 +25,7 @@ In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots 
 
 
 15. September. 2017
-4. Stunde
 
-Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen. Da 
+4.Stunde
+
+Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt ein Online Kurs zu absolvieren um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. 

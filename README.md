@@ -16,5 +16,6 @@ Flappybird: https://studio.code.org/c/419859135
 # 2. Stunde<a name="zwei"></a>
 In der zweiten Stunde haben wir uns bei Github angemeldet und uns erst einmal mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
 
+13.September.2017
 # 3. Stunde<a name="drei"></a>
 Stundenblog ausgeschrieben, star logo 2. lernaktivität

@@ -1,6 +1,8 @@
 # Stundenblog
 
 [1. Stunde](#eins)
+[2.Stunde](#zwei)
+[3.Stunde](#drei)
 
 8.September.2017
 # 1. Stunde<a name="eins"></a>
@@ -9,8 +11,8 @@ Flappybird: https://studio.code.org/c/419859135
 
 ![flappybird](https://user-images.githubusercontent.com/31760498/30202228-f4dbc0a0-947d-11e7-9ca7-bfc7450957d4.png)
 
-2. Stunde
+# 2. Stunde<a name="zwei"></a>
 In der zweiten Stunde haben wir uns bei Github angemeldet und uns erst einmal mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
 
-3. Stunde
+# 3. Stunde<a name="drei"></a>
 Stundenblog ausgeschrieben, star logo 2. lernaktivität

@@ -6,6 +6,8 @@
 
 [3.Stunde](#drei)
 
+[4.Stunde](#vier)
+
 8.September.2017
 
 # 1. Stunde<a name="eins"></a>
@@ -26,7 +28,7 @@ In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots 
 
 15. September. 2017
 
-4.Stunde
+# 4.Stunde<a name="vier"></a>
 
 Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt ein Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen hatten wir die Auswahl zwischen dem Kurs "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten.
 

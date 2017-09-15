@@ -31,3 +31,11 @@ In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots 
 Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt ein Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen hatten wir die Auswahl zwischen dem Kurs "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten.
 
 http://snap.berkeley.edu/snapsource/snap.html
+
+
+
+
+![4](https://user-images.githubusercontent.com/31760498/30473087-58e5aab2-99ff-11e7-802a-68d22d91e3cb.png)
+![3](https://user-images.githubusercontent.com/31760498/30473089-5905a254-99ff-11e7-862c-d10e902d4d5c.png)
+![2](https://user-images.githubusercontent.com/31760498/30473088-59024d3e-99ff-11e7-9bf6-172a6c2751d3.png)
+![1](https://user-images.githubusercontent.com/31760498/30473090-59060e06-99ff-11e7-8997-a9bf30d6a8bc.png)

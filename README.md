@@ -28,6 +28,6 @@ In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots 
 
 4.Stunde
 
-Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt ein Online Kurs zu absolvieren um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. 
+Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt ein Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen hatten wir die Auswahl zwischen dem Kurs "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten.
 
 http://snap.berkeley.edu/snapsource/snap.html

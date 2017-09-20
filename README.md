@@ -55,6 +55,8 @@ Außerdem sollte er bei jedem Klicken sich an eine bestimmte Position bewegen.
 
 ![3](https://user-images.githubusercontent.com/31760498/30473089-5905a254-99ff-11e7-862c-d10e902d4d5c.png)
 
+Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man die grüne Flagge anklickt.
+
 ![4](https://user-images.githubusercontent.com/31760498/30473087-58e5aab2-99ff-11e7-802a-68d22d91e3cb.png)
 
 

@@ -67,6 +67,6 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 
 20.September.2017
 
-![6](https://user-images.githubusercontent.com/31760549/30631576-feee3170-9de4-11e7-8767-7d1e1412a844.png)
+
 
 http://snap.berkeley.edu/snapsource/snap.html

@@ -10,6 +10,8 @@
 
 [5.Stunde](#fünf)
 
+[6.Stunde](#sechs)
+
 # 1. Stunde<a name="eins"></a>
 
 8.September.2017
@@ -22,7 +24,7 @@ Flappybird: https://studio.code.org/c/419859135
 
 # 2. Stunde<a name="zwei"></a>
 
-8. September.2017 
+8.September.2017 
 
 In der zweiten Stunde haben wir uns bei Github angemeldet und uns erst einmal mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
 
@@ -34,12 +36,14 @@ In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots 
 
 # 4.Stunde<a name="vier"></a>
 
-15. September. 2017
+15.September.2017
 
 Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt ein Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen hatten wir die Auswahl zwischen dem Kurs "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten. 
 So meldeten wir uns bei beiden an.
 
 # 5. Stunde<a name="fünf"></a>
+
+15.September.2017
 
 Als Erstes haben wir unseren Stundenblock weiter geschrieben. In der Stunde haben wir uns entschieden einen "The Beauty and Joy of Computing" Kurs durchzuführen. Wir haben uns einen Account erstellt und unsere ersten Erfahrungen mit dem Programm gemacht.
 Wir haben mit der "Unit 1 Introduction to Programming". Unser Ziel war es erste Kenntnisse von dem Programm zu lernen.
@@ -59,5 +63,7 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 
 ![4](https://user-images.githubusercontent.com/31760498/30473087-58e5aab2-99ff-11e7-802a-68d22d91e3cb.png)
 
+# 6.Stunde<a name="sechs"></a>
 
+20.September.2017
 http://snap.berkeley.edu/snapsource/snap.html

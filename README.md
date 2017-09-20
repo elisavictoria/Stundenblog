@@ -37,11 +37,14 @@ In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots 
 15. September. 2017
 
 Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt ein Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen hatten wir die Auswahl zwischen dem Kurs "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten. 
-So meldeten wir uns bei beiden 
+So meldeten wir uns bei beiden an.
 
 # 5. Stunde<a name="fünf"></a>
 
-stundenblock programmieren weiter schreiben liks einfügen und weiter screenshots eingefügt unjd erst erfahrungen mit bjc
+Als Erstes haben wir unseren Stundenblock weiter geschrieben. In der Stunde haben wir uns entschieden einen "The Beauty and Joy of Computing" Kurs durchzuführen. Wir haben uns einen Account erstellt und unsere ersten Erfahrungen mit dem Programm gemacht.
+Wir haben mit der "Unit 1 Introduction to Programming". Unser Ziel war es erste Kenntnisse von dem Programm zu lernen.
+Unsere erste Aufgabe bestand darin  zwei Alonzo Kostüme zu erstellen.
+
 
 http://snap.berkeley.edu/snapsource/snap.html
 

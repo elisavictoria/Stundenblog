@@ -45,6 +45,9 @@ Als Erstes haben wir unseren Stundenblock weiter geschrieben. In der Stunde habe
 Wir haben mit der "Unit 1 Introduction to Programming". Unser Ziel war es erste Kenntnisse von dem Programm zu lernen.
 Unsere erste Aufgabe bestand darin  zwei Alonzo Kostüme zu erstellen.
 
+![1](https://user-images.githubusercontent.com/31760498/30473090-59060e06-99ff-11e7-8997-a9bf30d6a8bc.png)
+
+
 
 http://snap.berkeley.edu/snapsource/snap.html
 

@@ -47,6 +47,13 @@ Unsere erste Aufgabe bestand darin  zwei Alonzo Kostüme zu erstellen.
 
 ![1](https://user-images.githubusercontent.com/31760498/30473090-59060e06-99ff-11e7-8997-a9bf30d6a8bc.png)
 
+Danach heben wir Alonzo so programmiert, dass er sein Kostüm ändert, wenn man ihn anklickt. 
+
+![2](https://user-images.githubusercontent.com/31760498/30473088-59024d3e-99ff-11e7-9bf6-172a6c2751d3.png)
+
+Außerdem sollte er bei jedem Klicken sich an eine bestimmte Position bewegen. 
+
+![3](https://user-images.githubusercontent.com/31760498/30473089-5905a254-99ff-11e7-862c-d10e902d4d5c.png)
 
 
 http://snap.berkeley.edu/snapsource/snap.html
@@ -55,6 +62,3 @@ http://snap.berkeley.edu/snapsource/snap.html
 
 
 ![4](https://user-images.githubusercontent.com/31760498/30473087-58e5aab2-99ff-11e7-802a-68d22d91e3cb.png)
-![3](https://user-images.githubusercontent.com/31760498/30473089-5905a254-99ff-11e7-862c-d10e902d4d5c.png)
-![2](https://user-images.githubusercontent.com/31760498/30473088-59024d3e-99ff-11e7-9bf6-172a6c2751d3.png)
-![1](https://user-images.githubusercontent.com/31760498/30473090-59060e06-99ff-11e7-8997-a9bf30d6a8bc.png)

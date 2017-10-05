@@ -30,6 +30,7 @@ Flappybird: https://studio.code.org/c/419859135
 
 In der zweiten Stunde haben wir uns bei Github angemeldet und uns erst einmal mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
 
+
 # 3. Stunde<a name="drei"></a>
 
 13.September.2017
@@ -74,6 +75,10 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 
 # 7.Stunde<a name="sieben"></a>
 04.Oktober.2017
+
+Heute begannen wir damit das Problem der letzten Stunde zu lösen. Wir hatten die Aufgabe ein Spiel zu programmieren. Alonso sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst also "forever". Wir hatten das Problem, dass Alonso nachdem er verblasst war nicht mehr aufzufinden war. Als wir jedoch eine Zahl in einem Kommandoblock geändert haben, kam er wieder zum Vorschein. Mit der Aufgabe " Sharing your App" war der erste Lab abgeschlossen.
+Den restlichen Teil der Stunde befassten wir uns mit Lab 2 von Unit 1 : Gossip and Greet.
+Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen, indem wir eigene costumes erstellt haben. Diese konnten durch schon eine vorgegeben Datei des Programms "random" Wörter von sich geben. 
 
 ![7](https://user-images.githubusercontent.com/31760498/31163329-37550cfc-a8e2-11e7-97d9-108520ab964a.png)
 

@@ -14,6 +14,10 @@
 
 [7.Stunde](#sieben)
 
+[8.Stunde](#acht)
+
+[9.Stunde](#neun)
+
 # 1. Stunde<a name="eins"></a>
 
 8.September.2017
@@ -74,6 +78,7 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 
 
 # 7.Stunde<a name="sieben"></a>
+
 04.Oktober.2017
 
 Heute begannen wir damit das Problem der letzten Stunde zu lösen. Wir hatten die Aufgabe ein Spiel zu programmieren. Alonso sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst also "forever". Wir hatten das Problem, dass Alonso nachdem er verblasst war nicht mehr aufzufinden war. Als wir jedoch eine Zahl in einem Kommandoblock geändert haben, kam er wieder zum Vorschein. Mit der Aufgabe " Sharing your App" war der erste Lab abgeschlossen.
@@ -85,12 +90,21 @@ Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen
 
 http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
 
+# 8.Stunde<a name="acht"></a>
+
+06.Oktober.2017
+
 ![8](https://user-images.githubusercontent.com/31760498/31267935-6add5388-aa7a-11e7-8994-0a1bfefbcd77.png)
 
 
 ![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)
 
 http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
+
+
+# 9.Stunde<a name="neun"></a>
+
+06.Oktober.2017
 
 
 ![10](https://user-images.githubusercontent.com/31760498/31269139-82ed6698-aa7f-11e7-8068-e9e7a2814c27.png)

@@ -80,17 +80,15 @@ Heute begannen wir damit das Problem der letzten Stunde zu lösen. Wir hatten di
 Den restlichen Teil der Stunde befassten wir uns mit Lab 2 von Unit 1 : Gossip and Greet.
 Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen, indem wir eigene costumes erstellt haben. Diese konnten durch schon eine vorgegeben Datei des Programms "random" Wörter von sich geben. 
 
-http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
 
 ![7](https://user-images.githubusercontent.com/31760498/31163329-37550cfc-a8e2-11e7-97d9-108520ab964a.png)
 
+http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
 
 ![8](https://user-images.githubusercontent.com/31760498/31267935-6add5388-aa7a-11e7-8994-0a1bfefbcd77.png)
 
 
-http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
-
 ![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)
 
+http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
 
-http://snap.berkeley.edu/snapsource/snap.html#

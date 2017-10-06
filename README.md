@@ -83,6 +83,14 @@ Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen
 ![7](https://user-images.githubusercontent.com/31760498/31163329-37550cfc-a8e2-11e7-97d9-108520ab964a.png)
 
 
+![8](https://user-images.githubusercontent.com/31760498/31267935-6add5388-aa7a-11e7-8994-0a1bfefbcd77.png)
+
+
+
+
+![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)
+
+
 http://snap.berkeley.edu/snapsource/snap.html
 
 http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic

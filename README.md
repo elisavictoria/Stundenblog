@@ -24,16 +24,15 @@
 
 Da wir keinerlei Vorkenntnisse im Programmieren aufweisen konnten, mussten wir uns erst einmal informieren was wir für Möglichkeiten als Anfänger haben. Auf Ihrem für uns zusammengesetllten Github Projekt stießen wir auf die Webseite code.org. Dort haben wir verschiedene Kurse ausprobiert und uns letztendlich dazu entschieden Flappybird zu programmieren. Das Programmieren der kleinen Änderungen in der App fiel uns durch die klaren Anweisungen des Kurses sehr leicht. Am Ende der Stunde hatten wir eine Abwandlung der klassischen Flappybird App entwickelt, bei der wir individuelle Töne einfügen konnten und programmieren konnten, dass der Hintergrund und die Spielfigur jedes Mal zufällig wechselt, sobald die Spielfigur eine grüne Röhre passiert ist.
 
-Flappybird: https://studio.code.org/c/419859135 
-
 ![flappybird](https://user-images.githubusercontent.com/31760498/30202228-f4dbc0a0-947d-11e7-9ca7-bfc7450957d4.png)
+
+Flappybird: https://studio.code.org/c/419859135 
 
 # 2. Stunde<a name="zwei"></a>
 
 8.September.2017 
 
 In der zweiten Stunde haben wir uns bei Github angemeldet und uns erst einmal mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
-
 
 # 3. Stunde<a name="drei"></a>
 
@@ -76,7 +75,6 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 
 ![6](https://user-images.githubusercontent.com/31760549/30631731-93963fa2-9de5-11e7-9e9f-f58f1e44328c.png)
 
-
 # 7.Stunde<a name="sieben"></a>
 
 04.Oktober.2017
@@ -84,7 +82,6 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 Heute begannen wir damit das Problem der letzten Stunde zu lösen. Wir hatten die Aufgabe ein Spiel zu programmieren. Alonso sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst also "forever". Wir hatten das Problem, dass Alonso nachdem er verblasst war nicht mehr aufzufinden war. Als wir jedoch eine Zahl in einem Kommandoblock geändert haben, kam er wieder zum Vorschein. Mit der Aufgabe " Sharing your App" war der erste Lab abgeschlossen.
 Den restlichen Teil der Stunde befassten wir uns mit Lab 2 von Unit 1 : Gossip and Greet.
 Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen, indem wir eigene costumes erstellt haben. Diese konnten durch schon eine vorgegeben Datei des Programms "random" Wörter von sich geben. 
-
 
 ![7](https://user-images.githubusercontent.com/31760498/31163329-37550cfc-a8e2-11e7-97d9-108520ab964a.png)
 
@@ -96,16 +93,13 @@ http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&Pro
 
 ![8](https://user-images.githubusercontent.com/31760498/31267935-6add5388-aa7a-11e7-8994-0a1bfefbcd77.png)
 
-
 ![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)
 
 http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
 
-
 # 9.Stunde<a name="neun"></a>
 
 06.Oktober.2017
-
 
 ![10](https://user-images.githubusercontent.com/31760498/31269139-82ed6698-aa7f-11e7-8068-e9e7a2814c27.png)
 

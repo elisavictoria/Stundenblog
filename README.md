@@ -92,6 +92,7 @@ Alonzo: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavict
 
 06.Oktober.2017
 
+In dieser Stunde haben wir 
 ![8](https://user-images.githubusercontent.com/31760498/31267935-6add5388-aa7a-11e7-8994-0a1bfefbcd77.png)
 
 ![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)

@@ -106,3 +106,6 @@ http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&Pro
 ![10](https://user-images.githubusercontent.com/31760498/31269139-82ed6698-aa7f-11e7-8068-e9e7a2814c27.png)
 
 http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=modern%20art
+
+
+Anleitung: http://bjc.berkeley.edu/website/curriculum.html

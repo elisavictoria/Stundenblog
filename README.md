@@ -86,19 +86,19 @@ Heute begannen wir damit das Problem der letzten Stunde zu lösen. Wir hatten di
 Den restlichen Teil der Stunde befassten wir uns mit Lab 2 von Unit 1 : Gossip and Greet.
 Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen, indem wir eigene costumes erstellt haben. Diese konnten durch schon eine vorgegeben Datei des Programms "random" Wörter von sich geben. 
 
-Alonzo: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
+Lab 1: Click Alonzo Game: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
 
 # 8.Stunde<a name="acht"></a>
 
 06.Oktober.2017
 
-In dieser Stunde haben wir die Personen aus der letzten Stunde weiter programmiert. Die zwei Figuren konnten letzendlich reden, wenn man sie angeklickt hat. Eine weitere Aufgabe war es, den Hintergrund zu verändern und andere Figuren auszuwählen. Als Hintergrundbild haben wir ein Bild aus dem Wald mit Tieren aus dem Internet rausgesucht. Für die Figuren haben wir das Mädchen aus den vorgeschlagenen Personen ausgewählt und die Eule ebenfalls aus dem Internet ausgesucht. 
-
-![8](https://user-images.githubusercontent.com/31760498/31267935-6add5388-aa7a-11e7-8994-0a1bfefbcd77.png)
+In dieser Stunde haben wir die Personen aus der letzten Stunde weiter programmiert. Die zwei Figuren konnten letzendlich reden, wenn man sie angeklickt hat. Eine weitere Aufgabe war es, den Hintergrund zu verändern und andere Figuren auszuwählen. Als Hintergrundbild haben wir ein Bild aus dem Wald mit Tieren aus dem Internet rausgesucht. Für die Figuren haben wir das Mädchen und den Jungen aus den vorgeschlagenen Personen ausgewählt. 
 
 ![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)
 
-http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
+Die nächste Aufgabe bestand darin einen eigenen Block zu erstellen. Der Junge sollte auf die Aussagen des Mädchens antworten. Dazu mussten wir einen response Block programmieren. Der sollte ein reporter Block werden, also oval und kein Puzzelbolck, der sich an andere Blöcke anlagern kann. Nachdem wir Antwortmöglichkeiten nach dem Zufallsprinzip programmiert haben, konnte der Junge auf die Aussagen des Mädchens reagieren. Dazu muss man nur auf das Mädchen klicken und warten bis der Junge antwortet bzw. etwas sagt.
+
+Lab 2: Gossip and Greet: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
 
 # 9.Stunde<a name="neun"></a>
 
@@ -106,7 +106,7 @@ http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&Pro
 
 ![10](https://user-images.githubusercontent.com/31760498/31269139-82ed6698-aa7f-11e7-8068-e9e7a2814c27.png)
 
-http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=modern%20art
+Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=modern%20art
 
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html

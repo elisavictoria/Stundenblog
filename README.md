@@ -92,7 +92,8 @@ Alonzo: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavict
 
 06.Oktober.2017
 
-In dieser Stunde haben wir 
+In dieser Stunde haben wir die Personen aus der letzten Stunde weiter programmiert. Die zwei Figuren konnten letzendlich reden, wenn man sie angeklickt hat. Eine weitere Aufgabe war es, den Hintergrund zu verändern und andere Figuren auszuwählen. Als Hintergrundbild haben wir ein Bild aus dem Wald mit Tieren aus dem Internet rausgesucht. Für die Figuren haben wir das Mädchen aus den vorgeschlagenen Personen ausgewählt und die Eule ebenfalls aus dem Internet ausgesucht. 
+
 ![8](https://user-images.githubusercontent.com/31760498/31267935-6add5388-aa7a-11e7-8994-0a1bfefbcd77.png)
 
 ![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)

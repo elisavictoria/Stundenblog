@@ -104,6 +104,9 @@ Lab 2: Gossip and Greet: http://snap.berkeley.edu/snapsource/snap.html#present:U
 
 06.Oktober.2017
 
+Jetzt haben wir Lab 2 abgeschlossen. Die letzte Anweisung konnten wir schnell abschließen. Wir haben zwei Personen programmiert, mit denen wir über ein Chatfeld kurze und einfache Konservationen führen konnten. Die Besonderheit bestand darin, dass sich das Programm schon einmal zuvor genannte Namen von uns merken konnte. Wenn man in dem Chatfeld also "Hallo hier ist Elisa" geschhrieben hatte, wurde man gefragt "Wie geht es dir Elisa?" Der Name wurde weiterhin gemerkt.
+
+Nun konnten wir endlich mit Lab 3 fortfahren. Wir sollten "Modern Art" kreieren, indem wir eine Pfeil programmierten der aufgrund der aneinander gereiten Blöcke alleine Vierecke zeichen konnte. Wir hatten sehr viel Spaß mit den verschiedenen Einstellungen der Blöcke herumzuexperimetieren. So konnten wir zum Beispiel den Gard der Drehung ändern, sodass mehreckige Formen entstanden. Auch die Farbe der geometrischen Formen konnte eingestellt werden. Am Ende der Stunde hatten wir ein kleines Kunstwek aus geometrischen Formen erschaffen. Im letzten Teil der Lektion lernten wir, dass wir mit der Einstellung der Koordinaten x:o y:o den Pfeil immer an dieselbe Stelle zurückholen konnten, so konnte man eine andere Sternform kreieren. Die Lektion hat uns sehr viel Spaß gemacht.
 ![10](https://user-images.githubusercontent.com/31760498/31269139-82ed6698-aa7f-11e7-8068-e9e7a2814c27.png)
 
 Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=modern%20art

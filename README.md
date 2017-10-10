@@ -1,6 +1,6 @@
 # Stundenblog
 
-[1. Stunde](#eins)
+[1.Stunde](#eins)
 
 [2.Stunde](#zwei)
 

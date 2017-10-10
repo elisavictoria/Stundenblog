@@ -1,22 +1,22 @@
 # Stundenblog
 
-[1.Stunde](#eins)
+[1. Stunde](#eins)
 
-[2.Stunde](#zwei)
+[2. Stunde](#zwei)
 
-[3.Stunde](#drei)
+[3. Stunde](#drei)
 
-[4.Stunde](#vier)
+[4. Stunde](#vier)
 
-[5.Stunde](#fünf)
+[5. Stunde](#fünf)
 
-[6.Stunde](#sechs)
+[6. Stunde](#sechs)
 
-[7.Stunde](#sieben)
+[7. Stunde](#sieben)
 
-[8.Stunde](#acht)
+[8. Stunde](#acht)
 
-[9.Stunde](#neun)
+[9. Stunde](#neun)
 
 # 1. Stunde<a name="eins"></a>
 

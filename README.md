@@ -117,8 +117,13 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 
 # 10. Stunde<a name="zehn"></a>
 
+11.Oktober.2017
+
+In dieser Stunde haben wir uns weiterhin mit der Lektion Modern Art beschäftigt. Als erstes haben wir Angles and Turning durchgearbeitet. Der Pfeil konnte sich in unterschiedlichen Graden und smit in unterschiedliche Richtungen bewegen. Dadurch entstanden spezielle Sechsecke.
+
 ![11](https://user-images.githubusercontent.com/31760498/31426686-9b21aba0-ae64-11e7-8dae-ad374ecdaca8.png)
 
+Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele Zacken der Stern habenn sollte. Der Pfeil war so programmiert, dass er jedesmal zurück zum Ursprung gegangen ist. Als wir diese Funktion deaktivierten, entstand ein normales Sechseck. Und logischer Weise bei vier Wiederholungen ein Viereck. In dieser Stunde haben wir die Lektion Angles and Turning abgeschlossen.
 
 ![12](https://user-images.githubusercontent.com/31760498/31426687-9b69a6a8-ae64-11e7-8610-63f754c15d44.png)
 

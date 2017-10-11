@@ -75,7 +75,7 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 
 20.September.2017
 
-![6](https://user-images.githubusercontent.com/31760549/30631731-93963fa2-9de5-11e7-9e9f-f58f1e44328c.png)
+In dieser Stunde haben wir unseren Stundenblock weiter verfasst und haben  uns auf "Make it a game" aus Lab 1 vorbereitet, sodass wir in der nächsten Stunde gleich mit der Lektion anfangen konnten.
 
 # 7. Stunde<a name="sieben"></a>
 

@@ -42,7 +42,7 @@ In der zweiten Stunde haben wir uns bei Github angemeldet und uns erst einmal mi
 
 In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots in github einfügen kann. Das Video hat uns sehr geholfen und es hat beim ersten Versuch direkt geklappt. Den Rest der Stunde verbrachten wir damit unseren Stundenblock auszuschreiben. Die letzten 10 min widmeten wir erneut dem Programm StarLogo und fingen die 2. Lernaktivität an.
 
-# 4.Stunde<a name="vier"></a>
+# 4. Stunde<a name="vier"></a>
 
 15.September.2017
 
@@ -71,13 +71,13 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 
 ![4](https://user-images.githubusercontent.com/31760498/30473087-58e5aab2-99ff-11e7-802a-68d22d91e3cb.png)
 
-# 6.Stunde<a name="sechs"></a>
+# 6. Stunde<a name="sechs"></a>
 
 20.September.2017
 
 ![6](https://user-images.githubusercontent.com/31760549/30631731-93963fa2-9de5-11e7-9e9f-f58f1e44328c.png)
 
-# 7.Stunde<a name="sieben"></a>
+# 7. Stunde<a name="sieben"></a>
 
 04.Oktober.2017
 
@@ -90,7 +90,7 @@ Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen
 
 Lab 1: Click Alonzo Game: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
 
-# 8.Stunde<a name="acht"></a>
+# 8. Stunde<a name="acht"></a>
 
 06.Oktober.2017
 
@@ -102,7 +102,7 @@ Die nächste Aufgabe bestand darin einen eigenen Block zu erstellen. Der Junge s
 
 Lab 2: Gossip and Greet: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
 
-# 9.Stunde<a name="neun"></a>
+# 9. Stunde<a name="neun"></a>
 
 06.Oktober.2017
 
@@ -115,7 +115,7 @@ Nun konnten wir endlich mit Lab 3 fortfahren. Wir sollten "Modern Art" kreieren,
 Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=modern%20art
 
 
-# 10.Stunde<a name="zehn"></a>
+# 10. Stunde<a name="zehn"></a>
 
 ![11](https://user-images.githubusercontent.com/31760498/31426686-9b21aba0-ae64-11e7-8dae-ad374ecdaca8.png)
 

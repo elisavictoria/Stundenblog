@@ -46,16 +46,15 @@ In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots 
 
 15.September.2017
 
-Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt ein Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen hatten wir die Auswahl zwischen dem Kurs "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten. 
-So meldeten wir uns bei beiden an.
+Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt einen Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen, hatten wir die Auswahl zwischen dem Kurs "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten. 
+So meldeten wir uns bei beiden Webseiten an.
 
 # 5. Stunde<a name="fünf"></a>
 
 15.September.2017
 
-Als Erstes haben wir unseren Stundenblock weiter geschrieben. In der Stunde haben wir uns entschieden einen "The Beauty and Joy of Computing" Kurs durchzuführen. Wir haben uns einen Account erstellt und unsere ersten Erfahrungen mit dem Programm gemacht.
-Wir haben mit der "Unit 1 Introduction to Programming". Unser Ziel war es erste Kenntnisse von dem Programm zu lernen.
-Unsere erste Aufgabe bestand darin  zwei Alonzo Kostüme zu erstellen.
+Als Erstes haben wir unseren Stundenblock weiter geschrieben. In der Stunde haben wir uns entschieden einen "The Beauty and Joy of Computing" Kurs durchzuführen. Wir haben uns einen Account erstellt und unsere ersten Erfahrungen mit dem Programm gemacht indem wir mit der Unit 1 "Introduction to Programming".
+Unsere erste Aufgabe bestand darin zwei Alonzo Kostüme zu erstellen.
 
 ![1](https://user-images.githubusercontent.com/31760498/30473090-59060e06-99ff-11e7-8997-a9bf30d6a8bc.png)
 
@@ -63,11 +62,11 @@ Danach heben wir Alonzo so programmiert, dass er sein Kostüm ändert, wenn man 
 
 ![2](https://user-images.githubusercontent.com/31760498/30473088-59024d3e-99ff-11e7-9bf6-172a6c2751d3.png)
 
-Außerdem sollte er bei jedem Klicken sich an eine bestimmte Position bewegen. 
+Außerdem sollte er sich bei jedem Klicken an eine bestimmte Position bewegen. 
 
 ![3](https://user-images.githubusercontent.com/31760498/30473089-5905a254-99ff-11e7-862c-d10e902d4d5c.png)
 
-Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man die grüne Flagge anklickt.
+Als letztes haben wir einen Auftrag für das Anklicken der grünen Flagge erstellt. 
 
 ![4](https://user-images.githubusercontent.com/31760498/30473087-58e5aab2-99ff-11e7-802a-68d22d91e3cb.png)
 
@@ -75,7 +74,7 @@ Als letztes haben wir einen Auftrag erstellt, was Alonzo machen soll wenn man di
 
 20.September.2017
 
-In dieser Stunde haben wir unseren Stundenblock weiter verfasst und haben  uns auf "Make it a game" aus Lab 1 vorbereitet, sodass wir in der nächsten Stunde gleich mit der Lektion anfangen konnten.
+In dieser Stunde haben wir unseren Stundenblock weiter verfasst und haben  uns auf "Make it a game" aus Lab 1 vorbereitet, sodass wir in der nächsten Stunde gleich mit der Lektion anfangen konnten. Am Ende der Stunde trat ein kleines Problem auf..
 
 # 7. Stunde<a name="sieben"></a>
 

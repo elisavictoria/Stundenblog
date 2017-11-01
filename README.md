@@ -137,10 +137,15 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 13.Oktober.2017
 
+
+![13](https://user-images.githubusercontent.com/31760498/32268873-f8482876-bef0-11e7-9cbc-493ba3fc07f7.png)
+![14](https://user-images.githubusercontent.com/31760498/32268874-f8686f14-bef0-11e7-8545-d3003739d60d.png)
+
 # 12. Stunde<a name="zwölf"></a>
 
 13.Oktober.2017
 
+![15](https://user-images.githubusercontent.com/31760498/32268875-f87fac7e-bef0-11e7-9503-98319d61fb95.png)
 
 # 13. Stunde<a name="dreizehn"></a>
 

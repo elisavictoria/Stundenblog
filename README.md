@@ -20,6 +20,12 @@
 
 [10. Stunde](#zehn)
 
+[11. Stunde](#elf)
+
+[12. Stunde](#zwölf)
+
+[13. Stunde](#dreizehn)
+
 # 1. Stunde<a name="eins"></a>
 
 8.September.2017
@@ -127,7 +133,18 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 ![12](https://user-images.githubusercontent.com/31760498/31426687-9b69a6a8-ae64-11e7-8610-63f754c15d44.png)
 
 
+# 11. Stunde<a name="elf"></a>
 
+13.Oktober.2017
+
+# 12. Stunde<a name="zwölf"></a>
+
+13.Oktober.2017
+
+
+# 13. Stunde<a name="dreizehn"></a>
+
+1.November.2017
 
 http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L3-Pinwheel
 

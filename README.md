@@ -150,7 +150,7 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 # 13. Stunde<a name="dreizehn"></a>
 
-1.November.2017
+01.November.2017
 
 In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. Wir haben sofort mit der nächsten (Looping with a counter) weiter gemacht. Es ging darum spiralenförmige Formen zu erstellen. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind Figuren mit unterschiedlich vielen Ecken entstanden. 
 
@@ -160,6 +160,12 @@ Letztendlich haben wir versucht eine Kreisspirale zu erzeugen, allerdings musste
 
 ![17](https://user-images.githubusercontent.com/31760498/32269978-685e1adc-bef4-11e7-91c0-0ab98947d5c4.png)
 
-http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L3-Pinwheel
+Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L3-Pinwheel
+
+# 14. Stunde<a name="vierzehn"></a>
+
+03.November.2017
+
+Protecting Your Privacy-neue Lektion
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html

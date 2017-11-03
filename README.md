@@ -152,6 +152,7 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 1.November.2017
 
+In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. Wir haben sofort mit der nächsten (Looping with a counter) weiter gemacht. Es ging darum spiralenförmige Formen zu erstellen. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind Figuren mit unterschiedlich vielen Ecken entstanden. Letztendlich haben wir versucht eine Kreisspirale zu erzeugen, allerdings mussten wir eine Kombination aus der Größe des Winkels, der Länge und der Anzahl finden. Das haben wir aber nicht geschafft, sondern es sind nur einzelne Kreise entstanden.
 
 ![16](https://user-images.githubusercontent.com/31760498/32269977-6843db18-bef4-11e7-8f35-9506c47be2e3.png)
 

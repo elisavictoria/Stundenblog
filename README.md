@@ -137,6 +137,8 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 13.Oktober.2017
 
+Ich habe heute alleine gearbeitet, weil Victoria gefehlt hat. Die Aufgabe der Lektion bestand darin ein sogenanntes Pinwheel zu erstellen. Hierzu konnte ich mirein vorgefertigtes Script von de Webseite herunhterladen. In dem Script konnte man einstellen wie viele Ecken das Pinwheel haben sollte und was für einen Winkel diese bildeten. Außerdem konnte man den Parameter für den Weg des Pfeils, den er wieder zurücklaufen muss, einstellen. Damit wird Einfluss auf die Länge der verlängerten Linie an den Ecken genommen. 
+Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asterik erstellen.
 
 ![13](https://user-images.githubusercontent.com/31760498/32268873-f8482876-bef0-11e7-9cbc-493ba3fc07f7.png)
 
@@ -150,22 +152,13 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 # 13. Stunde<a name="dreizehn"></a>
 
-01.November.2017
+1.November.2017
 
-In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. Wir haben sofort mit der nächsten (Looping with a counter) weiter gemacht. Es ging darum spiralenförmige Formen zu erstellen. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind Figuren mit unterschiedlich vielen Ecken entstanden. 
 
 ![16](https://user-images.githubusercontent.com/31760498/32269977-6843db18-bef4-11e7-8f35-9506c47be2e3.png)
 
-Letztendlich haben wir versucht eine Kreisspirale zu erzeugen, allerdings mussten wir eine Kombination aus der Größe des Winkels, der Länge und der Anzahl finden. Das haben wir aber nicht geschafft, sondern es sind nur einzelne Kreise entstanden.
-
 ![17](https://user-images.githubusercontent.com/31760498/32269978-685e1adc-bef4-11e7-91c0-0ab98947d5c4.png)
 
-Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L3-Pinwheel
-
-# 14. Stunde<a name="vierzehn"></a>
-
-03.November.2017
-
-Protecting Your Privacy-neue Lektion
+http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L3-Pinwheel
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html

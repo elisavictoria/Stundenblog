@@ -54,7 +54,11 @@ In der zweiten Stunde haben wir uns bei Github angemeldet und uns mit dem Progra
 
 In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots in github einfügen kann. Das Video hat uns sehr geholfen und es hat beim ersten Versuch direkt geklappt. Den Rest der Stunde verbrachten wir damit unseren Stundenblock auszuschreiben. Die letzten 10 min widmeten wir erneut dem Programm StarLogo und fingen die 2. Lernaktivität an.
 
+![unbenannt](https://user-images.githubusercontent.com/31760498/32537780-1a29aeec-c464-11e7-93d7-8351636158ae.png)
+
 ![19](https://user-images.githubusercontent.com/31760498/32537821-38d774a0-c464-11e7-9ba0-d667e19948c2.png)
+
+Bei dieser Lernaktivität sollten wir mehrere Agenten im Spaceland verteilen und die Benutzung von einer globalen Variable, Kollisionsblöcken und Textblöcken erlernen. Um eine benutzerdefinierte Anzahl vom Setup zu erzeugen haben wir eine globale Variable mit Slider verwendet. Mit "scatter" wurden die Agenten im Spaceland verteilt.
 
 # 4. Stunde<a name="vier"></a>
 

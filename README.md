@@ -46,11 +46,15 @@ Flappybird: https://studio.code.org/c/419859135
 
 In der zweiten Stunde haben wir uns bei Github angemeldet und uns mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
 
+![unbenannt](https://user-images.githubusercontent.com/31760498/32537780-1a29aeec-c464-11e7-93d7-8351636158ae.png)
+
 # 3. Stunde<a name="drei"></a>
 
 13.September.2017
 
 In der heutigen Stunde lernten wir durch ein youtube video, wie man screenshots in github einfügen kann. Das Video hat uns sehr geholfen und es hat beim ersten Versuch direkt geklappt. Den Rest der Stunde verbrachten wir damit unseren Stundenblock auszuschreiben. Die letzten 10 min widmeten wir erneut dem Programm StarLogo und fingen die 2. Lernaktivität an.
+
+![19](https://user-images.githubusercontent.com/31760498/32537821-38d774a0-c464-11e7-9ba0-d667e19948c2.png)
 
 # 4. Stunde<a name="vier"></a>
 

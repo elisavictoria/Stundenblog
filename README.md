@@ -147,7 +147,7 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 13.Oktober.2017
 
-Ich habe heute alleine gearbeitet, weil Victoria gefehlt hat. Die Aufgabe der Lektion bestand darin ein sogenanntes Pinwheel zu erstellen. Hierzu konnte ich mirein vorgefertigtes Script von de Webseite herunhterladen. In dem Script konnte man einstellen wie viele Ecken das Pinwheel haben sollte und was für einen Winkel diese bildeten. Außerdem konnte man den Parameter für den Weg des Pfeils, den er wieder zurücklaufen muss, einstellen. Damit wird Einfluss auf die Länge der verlängerten Linie an den Ecken genommen. 
+Ich habe heute alleine gearbeitet, weil Victoria gefehlt hat. Die Aufgabe der Lektion bestand darin ein sogenanntes Pinwheel zu erstellen. Hierzu konnte ich mir ein vorgefertigtes Script von de Webseite herunterladen. In dem Script konnte man einstellen wie viele Ecken das Pinwheel haben sollte und was für einen Winkel diese bildeten. Außerdem konnte man den Parameter für den Weg des Pfeils, den er wieder zurücklaufen muss, einstellen. Damit wird Einfluss auf die Länge der verlängerten Linie an den Ecken genommen. 
 Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asterik erstellen.
 
 ![13](https://user-images.githubusercontent.com/31760498/32268873-f8482876-bef0-11e7-9cbc-493ba3fc07f7.png)
@@ -157,6 +157,8 @@ Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asteri
 # 12. Stunde<a name="zwölf"></a>
 
 13.Oktober.2017
+
+Die nächste Stunde der Doppelstunde sollte ich das von mir in der letzten Stunde erstellte Script zu einem Asterik erweiten (genauer). Nach einigem Ausprobieren trat ein Problem auf. Ich konnte in dem Sckript bestimmte Parameter eingeben, damit ein Asterik entsteht. Auf der anderen Seite war es nicht mehr möglich ein Pinwheel zu zeichnen. Die Lösung bestand darin ein "-backup" einzufügen, weil der Pfeil den Weg auch wieder zurück gehen muss. 
 
 ![15](https://user-images.githubusercontent.com/31760498/32268875-f87fac7e-bef0-11e7-9503-98319d61fb95.png)
 
@@ -178,6 +180,7 @@ Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:
 
 03.November.2017
 
+In dieser 
 
 
 Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#

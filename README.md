@@ -113,7 +113,7 @@ In dieser Stunde haben wir die Personen aus der letzten Stunde weiter programmie
 
 ![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)
 
-Die nächste Aufgabe bestand darin einen eigenen Block zu erstellen. Der Junge sollte auf die Aussagen des Mädchens antworten. Dazu mussten wir einen response Block programmieren. Der sollte ein reporter Block werden, also oval und kein Puzzelbolck, der sich an andere Blöcke anlagern kann. Nachdem wir Antwortmöglichkeiten nach dem Zufallsprinzip programmiert haben, konnte der Junge auf die Aussagen des Mädchens reagieren. Dazu muss man nur auf das Mädchen klicken und warten bis der Junge antwortet bzw. etwas sagt.
+Die nächste Aufgabe bestand darin einen eigenen Block zu erstellen. Der Junge sollte auf die Aussagen des Mädchens antworten. Dazu mussten wir einen "Response-Block" programmieren. Der sollte ein "Reporter-Block" werden, also oval und kein Puzzelbolck, der sich an andere Blöcke anlagern kann. Nachdem wir Antwortmöglichkeiten nach dem Zufallsprinzip programmiert haben, konnte der Junge auf die Aussagen des Mädchens reagieren. Dazu muss man nur auf das Mädchen klicken und warten bis der Junge antwortet bzw. etwas sagt.
 
 Lab 2: Gossip and Greet: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
 

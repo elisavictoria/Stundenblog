@@ -50,26 +50,26 @@ In der zweiten Stunde haben wir uns bei Github angemeldet und uns mit dem Progra
 
 13.September.2017
 
-In der heutigen Stunde lernten wir, wie man screenshots in github einfügen kann. Dazu haben wir uns ein Video auf Youtube angesehen, welches uns sehr geholfen hat. Den Rest der Stunde verbrachten wir damit unseren Stundenblock zu vervollständigen. Die letzten 10 Minuten widmeten wir erneut dem Programm StarLogo und fingen die 2. Lernaktivität an.
+In der heutigen Stunde haben wir gelernt, wie wir Screenshots in unser Repository einfügen können. Dazu haben wir uns ein Video auf Youtube angesehen, indem beschrieben wurde, dass man ein Issue anlegen muss, um die Bilddatein hochzuladen. Den Rest der Stunde verbrachten wir damit unseren Stundenblock zu vervollständigen und die Bilder einzufügen. Die letzten 10 Minuten widmeten wir erneut dem Programm StarLogo und fingen die 2. Lernaktivität an.
 
 ![unbenannt](https://user-images.githubusercontent.com/31760498/32537780-1a29aeec-c464-11e7-93d7-8351636158ae.png)
 
 ![19](https://user-images.githubusercontent.com/31760498/32537821-38d774a0-c464-11e7-9ba0-d667e19948c2.png)
 
-Bei dieser Lernaktivität,die auf der Vorigen aufbaut, sollten wir mehrere Agenten im Spaceland verteilen und die Benutzung von einer globalen Variable, Kollisionsblöcken und Textblöcken erlernen. Um eine benutzerdefinierte Anzahl von den Agenten zu erzeugen, haben wir eine globale Variable mit Slider verwendet. Mit "scatter" wurden die Agenten im Spaceland verteilt.
+Bei dieser Lernaktivität, die auf der Vorigen aufbaut, sollten wir mehrere Agenten im Spaceland verteilen und die Benutzung von globalen Variablen, Kollisionsblöcken und Textblöcken erlernen. Um eine benutzerdefinierte Anzahl von den Agenten zu erzeugen, haben wir eine globale Variable mit Slider verwendet. Mit "scatter" wurden die Agenten im Spaceland verteilt.
 
 # 4. Stunde<a name="vier"></a>
 
 15.September.2017
 
-Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide hatten uns darauf geeinigt einen Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen, hatten wir die Auswahl zwischen dem Kurs "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten. 
-So meldeten wir uns bei beiden Webseiten an.
+Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide haben uns darauf geeinigt einen Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen, hatten wir die Auswahl zwischen dem Kurs von "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten. 
+Wir erstellten bei beiden Webseiten einen Account.
 
 # 5. Stunde<a name="fünf"></a>
 
 15.September.2017
 
-Als Erstes haben wir unseren Stundenblock weiter geschrieben. In der Stunde haben wir uns entschieden einen "The Beauty and Joy of Computing" Kurs durchzuführen. Wir haben uns einen Account erstellt und unsere ersten Erfahrungen mit dem Programm gemacht indem wir mit der Unit 1 "Introduction to Programming".
+Als Erstes haben wir in dieser Stunde unseren Stundenblock weiter geschrieben. Außerdem haben wir uns entschieden mit dem Programm "The Beauty and Joy of Computing" das Programmieren zu erlernen. Wir haben unsere ersten Erfahrungen mit dem Programm gemacht, indem wir mit der Unit 1 "Introduction to Programming" angefangen haben.
 Unsere erste Aufgabe bestand darin zwei Alonzo Kostüme zu erstellen.
 
 ![1](https://user-images.githubusercontent.com/31760498/30473090-59060e06-99ff-11e7-8997-a9bf30d6a8bc.png)
@@ -90,20 +90,20 @@ Als letztes haben wir einen Auftrag für das Anklicken der grünen Flagge erstel
 
 20.September.2017
 
-In dieser Stunde haben wir unseren Stundenblock weiter verfasst und haben  uns auf "Make it a game" aus Lab 1 vorbereitet, sodass wir in der nächsten Stunde gleich mit der Lektion anfangen konnten. Am Ende der Stunde trat ein kleines Problem auf..
+In dieser Stunde haben wir unseren Stundenblock weiter verfasst und haben uns auf "Make it a game" aus Lab 1 vorbereitet, sodass wir in der nächsten Stunde gleich mit der Lektion anfangen konnten.
 
 # 7. Stunde<a name="sieben"></a>
 
 04.Oktober.2017
 
-Heute begannen wir damit das Problem der letzten Stunde zu lösen. Wir hatten die Aufgabe ein Spiel zu programmieren. Alonzo sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst ist also "forever". Wir hatten das Problem, dass Alonzo nachdem er verblasst war nicht mehr aufzufinden war. Als wir jedoch die Zahl im Kommandoblock mit einem Minuszeichen geändert haben, kam er wieder zum Vorschein. Mit der Aufgabe " Sharing your App" war der erste Lab abgeschlossen.
+In dieser Lektion hatten wir die Aufgabe ein Spiel zu programmieren. Alonzo sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst ist also "forever". Wir hatten das Problem, dass Alonzo nachdem er komplett verblasst war, logischerweise nicht mehr sichtbar war und wir ihn natürlich nicht finden konnten.  Als wir jedoch die Zahl im Kommandoblock, der dafür zuständig war das er verblasst, mit einem Minuszeichen versehen haben, kam er wieder zum Vorschein. Mit der Aufgabe "Sharing your App" war der erste Lab abgeschlossen.
 
 ![7](https://user-images.githubusercontent.com/31760498/31163329-37550cfc-a8e2-11e7-97d9-108520ab964a.png)
 
+Lab 1: Click Alonzo Game: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
+
 Den restlichen Teil der Stunde befassten wir uns mit Lab 2 von Unit 1 : Gossip and Greet.
 Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen, indem wir eigene costumes erstellt haben. Diese konnten durch schon eine vorgegeben Datei des Programms "random" Wörter von sich geben. 
-
-Lab 1: Click Alonzo Game: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
 
 # 8. Stunde<a name="acht"></a>
 
@@ -158,7 +158,7 @@ Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asteri
 
 13.Oktober.2017
 
-Die nächste Stunde der Doppelstunde sollte ich das von mir in der letzten Stunde erstellte Script zu einem Asterik erweiten (genauer). Nach einigem Ausprobieren trat ein Problem auf. Ich konnte in dem Sckript bestimmte Parameter eingeben, damit ein Asterik entsteht. Auf der anderen Seite war es nicht mehr möglich ein Pinwheel zu zeichnen. Die Lösung bestand darin ein "-backup" einzufügen, weil der Pfeil den Weg auch wieder zurück gehen muss. 
+Die nächste Stunde der Doppelstunde sollte ich das von mir in der letzten Stunde erstellte Script zu einem Asterik erweiten (genauer). Nach einigem Ausprobieren trat ein Problem auf. Ich konnte in dem Script bestimmte Parameter eingeben, damit ein Asterik entsteht. Auf der anderen Seite war es nicht mehr möglich ein Pinwheel zu zeichnen. Die Lösung bestand darin ein "-backup" einzufügen, weil der Pfeil den Weg auch wieder zurück gehen muss. 
 
 ![15](https://user-images.githubusercontent.com/31760498/32268875-f87fac7e-bef0-11e7-9503-98319d61fb95.png)
 

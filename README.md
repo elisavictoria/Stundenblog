@@ -174,7 +174,7 @@ Letztendlich haben wir versucht eine Kreisspirale zu erzeugen, allerdings musste
 
 ![17](https://user-images.githubusercontent.com/31760498/32269978-685e1adc-bef4-11e7-91c0-0ab98947d5c4.png)
 
-Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L3-Pinwheel
+Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L3-Pinwheel
 
 # 14. Stunde<a name="vierzehn"></a>
 
@@ -191,6 +191,6 @@ Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#
 
 In dieser Stunde haben  wir das Spiel Pong Student programmiert. Es geht darum, dass der Ball auf die Platte trifft und genauso wie der Einfallswinkel in der Richtung des Ausfallswinkels abprallt. Der Ball war sehr schnell. Deswegen haben wir versucht ihn langsamer zu programmieren und es geschafft, indem wir die Zahl der Schritte verändert haben, die sich der Ball immer durchgehend hintereinander bewegen soll. Das war die erste Lektion in der es keine ganz genaue Anleitung gab und wir viel ausprobieren mussten, bis es letztendlich so funktioniert hat, wie wir es uns vorgestellt haben. Außerdem haben wir versucht einen Zähler zu programmieren, der zählt wie oft der Ball vom Paddel abprallt. Und der Zähler sollte sich auf null zurücksetzen, wenn die Wand hinter dem Paddel berührt wird. 
 
-The Game of Pong: http://snap.berkeley.edu/snapsource/snap.html#
+Optional Project: The Game of Pong: http://snap.berkeley.edu/snapsource/snap.html#
 
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html

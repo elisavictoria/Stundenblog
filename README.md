@@ -180,8 +180,10 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 
 03.November.2017
 
-In dieser 
-
+Im Lab 3: Following the Leader ist das Ziel zwei Pfeile zu programmieren. Ein Pfeil soll der Maus folgen, während der zweite Pfeil immer in die Richtung des ersten Pfeil zeigen soll. 
+Um die Aufgabe zu erfüllen sollten wir das Script alleine bauen. Am Anfang des Scriptes haben wir einen „Hat-Block“ eingefügt. Dieser programmiert nicht für einen bestimmten Befehl, der ausgeführt werden soll, sondern bestimmt wann das Script die folgende Befehlsreihe ausführt. In unserem Fall passiert das beim Klicken des „Hat-Blockes“. Wir haben in den „go to x- Block“  mouseblöcke aus der Sensing Palette eingefügt, damit der erste Pfeil die Aufgabe erfüllt „forever“ der Computermaus zu folgen. Nach Einfügen eines Blockes aus der Motion Palette, hatten wir den zweiten Pfeil entsprechend seiner Aufgabe programmiert. Damit war Page 1 abgeschlossen.
+Die folgende Aufgabe bestand darin den „Forever-Block“ durch einen „Repeat until Touching Sprite 2“ ersetzten, sodass die Pfeile bei Berührung stehen bleiben. Beide Pfeile bewegen sich erst wieder, wenn man die Befehlsreihe durch Klicken des „Hat-Blockes“ erneut aktiviert.
+Das Endresultat des Labs waren zwei Pfeile von denen der zweite Pfeil den ersten verfolgt bis er ihn gefangen hat und beide stehen bleiben.
 
 Lab 3: Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#
 

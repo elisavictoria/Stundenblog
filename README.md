@@ -1,4 +1,4 @@
-# Stundenblog: Beauty and Joy of Computing
+# Stundenblog: The Beauty and Joy of Computing
 
 [1. Stunde](#eins)
 
@@ -183,7 +183,7 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 In dieser 
 
 
-Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#
+Lab 3: Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#
 
 # 15. Stunde<a name="fünfzehn"></a>
 

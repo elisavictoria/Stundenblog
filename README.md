@@ -32,7 +32,7 @@
 
 # 1. Stunde<a name="eins"></a>
 
-8.September.2017
+8. September.2017
 
 Da wir keinerlei Vorkenntnisse im Programmieren aufweisen konnten, mussten wir uns erst einmal informieren was wir für Möglichkeiten als Anfänger haben. Auf Ihrem für uns zusammengesetllten Github Projekt stießen wir auf die Webseite code.org. Dort haben wir verschiedene Kurse ausprobiert und uns letztendlich dazu entschieden Flappybird zu programmieren. Das Programmieren der kleinen Änderungen in der App fiel uns durch die klaren Anweisungen des Kurses sehr leicht. Am Ende der Stunde hatten wir eine Abwandlung der klassischen Flappybird App entwickelt, bei der wir individuelle Töne einfügen konnten und programmieren konnten, dass der Hintergrund und die Spielfigur jedes Mal zufällig wechselt, sobald die Spielfigur eine grüne Röhre passiert.
 
@@ -191,7 +191,7 @@ Lab 3: Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#
 
 # 15. Stunde<a name="fünfzehn"></a>
 
-03.November.2017
+03. November.2017
 
 In dieser Stunde haben  wir das Spiel Pong Student programmiert. Es geht darum, dass der Ball auf die Platte trifft und genauso wie der Einfallswinkel in der Richtung des Ausfallswinkels abprallt. Der Ball war sehr schnell. Deswegen haben wir versucht ihn langsamer zu programmieren und es geschafft, indem wir die Zahl der Schritte verändert haben, die sich der Ball immer durchgehend hintereinander bewegen soll. Das war die erste Lektion in der es keine ganz genaue Anleitung gab und wir viel ausprobieren mussten, bis es letztendlich so funktioniert hat, wie wir es uns vorgestellt haben. Außerdem haben wir versucht einen Zähler zu programmieren, der zählt wie oft der Ball vom Paddel abprallt. Und der Zähler sollte sich auf null zurücksetzen, wenn die Wand hinter dem Paddel berührt wird. 
 

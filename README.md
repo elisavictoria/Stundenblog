@@ -98,7 +98,9 @@ In dieser Stunde haben wir unseren Stundenblock weiter verfasst und haben uns au
 
 04. Oktober.2017
 
-In dieser Lektion hatten wir die Aufgabe ein Spiel zu programmieren. Alonzo sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst ist also "forever". Wir hatten das Problem, dass Alonzo nachdem er komplett verblasst war, logischerweise nicht mehr sichtbar war und wir ihn natürlich nicht finden konnten.  Als wir jedoch die Zahl im Kommandoblock, der dafür zuständig war das er verblasst, mit einem Minuszeichen versehen haben, kam er wieder zum Vorschein. Mit der Aufgabe "Sharing your App" war der erste Lab abgeschlossen.
+Die erste Aufgabe unserer Lektion von heute bestand darin ein Spiel zu programmieren. Wir erhoffen uns nach dem Absolvieren des gesamten
+Onlinekurses eine eigene App zu programmieren. Deswegen hat uns die Aufgabe sehr angesprochen.
+Alonzo sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst ist also "forever". Wir hatten das Problem, dass Alonzo nachdem er komplett verblasst war, logischerweise nicht mehr sichtbar war und wir ihn natürlich nicht finden konnten.  Als wir jedoch die Zahl im Kommandoblock, der dafür zuständig war das er verblasst, mit einem Minuszeichen versehen haben, kam er wieder zum Vorschein. Mit der Aufgabe "Sharing your App" war der erste Lab abgeschlossen.
 
 ![7](https://user-images.githubusercontent.com/31760498/31163329-37550cfc-a8e2-11e7-97d9-108520ab964a.png)
 
@@ -123,9 +125,9 @@ Lab 2: Gossip and Greet: http://snap.berkeley.edu/snapsource/snap.html#present:U
 
 06. Oktober.2017
 
-Jetzt haben wir Lab 2 abgeschlossen. Die letzte Anweisung konnten wir schnell abschließen. Wir haben zwei Personen programmiert, mit denen wir über ein Chatfeld kurze und einfache Konservationen führen konnten. Die Besonderheit bestand darin, dass sich das Programm schon einmal zuvor genannte Namen von uns merken konnte. Wenn man in dem Chatfeld also "Hallo hier ist Elisa" geschhrieben hatte, wurde man gefragt "Wie geht es dir Elisa?" Der Name wurde weiterhin gemerkt.
+Jetzt haben wir Lab 2 abgeschlossen. Die letzte Anweisung konnten wir schnell abschließen. Wir haben zwei Personen programmiert, mit denen wir über ein Chatfeld kurze und einfache Konservationen führen konnten. Die Besonderheit bestand darin, dass sich das Programm schon einmal zuvor genannte Namen von uns merken konnte. Wenn man in dem Chatfeld "Hallo hier ist Elisa" geschhrieben hatte, wurde man gefragt "Wie geht es dir Elisa?" Der Name wurde weiterhin gemerkt.
 
-Nun konnten wir endlich mit Lab 3 fortfahren. Wir sollten "Modern Art" kreieren, indem wir eine Pfeil programmierten der aufgrund der aneinander gereiten Blöcke alleine Vierecke zeichen konnte. Wir hatten sehr viel Spaß mit den verschiedenen Einstellungen der Blöcke herumzuexperimetieren. So konnten wir zum Beispiel den Gard der Drehung ändern, sodass mehreckige Formen entstanden. Auch die Farbe der geometrischen Formen konnte eingestellt werden. Am Ende der Stunde hatten wir ein kleines Kunstwek aus geometrischen Formen erschaffen. Im letzten Teil der Lektion lernten wir, dass wir mit der Einstellung der Koordinaten x:o y:o den Pfeil immer an dieselbe Stelle zurückholen konnten, so konnte man eine andere Sternform kreieren. Die Lektion hat uns sehr viel Spaß gemacht.
+Danach begannen wir mit Lab 3. Wir sollten "Modern Art" kreieren, indem wir eine Pfeil programmierten der aufgrund der aneinander gereiten Blöcke alleine Vierecke zeichen konnte. Wir hatten sehr viel Spaß mit den verschiedenen Einstellungen der Blöcke herumzuexperimetieren. So konnten wir zum Beispiel den Grad der Drehung ändern, sodass mehreckige Formen entstanden. Auch die Farbe der geometrischen Formen konnte eingestellt werden. Am Ende der Stunde hatten wir ein kleines Kunstwek aus geometrischen Formen erschaffen. Im letzten Teil der Lektion lernten wir, dass wir mit der Einstellung der Koordinaten x:o y:o den Pfeil immer an dieselbe Stelle zurückholen konnten, so konnte man eine andere Sternform kreieren. Die Lektion hat uns sehr viel Spaß gemacht.
 
 ![10](https://user-images.githubusercontent.com/31760498/31269139-82ed6698-aa7f-11e7-8068-e9e7a2814c27.png)
 
@@ -136,11 +138,11 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 
 11. Oktober.2017
 
-In dieser Stunde haben wir uns weiterhin mit der Lektion Modern Art beschäftigt. Als erstes haben wir Angles and Turning durchgearbeitet. Der Pfeil konnte sich in unterschiedlichen Graden und smit in unterschiedliche Richtungen bewegen. Dadurch entstanden spezielle Sechsecke.
+In dieser Stunde haben wir uns weiterhin mit der Lektion Modern Art beschäftigt. Als erstes haben wir "Angles and Turning" durchgearbeitet. Der Pfeil konnte sich in unterschiedlichen Graden und in unterschiedliche Richtungen bewegen. Dadurch entstanden spezielle Sechsecke.
 
 ![11](https://user-images.githubusercontent.com/31760498/31426686-9b21aba0-ae64-11e7-8dae-ad374ecdaca8.png)
 
-Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele Zacken der Stern habenn sollte. Der Pfeil war so programmiert, dass er jedesmal zurück zum Ursprung gegangen ist. Als wir diese Funktion deaktivierten, entstand ein normales Sechseck. Und logischer Weise bei vier Wiederholungen ein Viereck. In dieser Stunde haben wir die Lektion Angles and Turning abgeschlossen.
+Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele Zacken der Stern haben soll. Der Pfeil war so programmiert, dass er jedesmal zurück zum Ursprung gegangen ist. Als wir diese Funktion deaktivierten, entstand ein normales Sechseck. Und logischer Weise bei vier Wiederholungen ein Viereck. In dieser Stunde haben wir die Lektion Angles and Turning abgeschlossen.
 
 ![12](https://user-images.githubusercontent.com/31760498/31426687-9b69a6a8-ae64-11e7-8610-63f754c15d44.png)
 
@@ -149,7 +151,7 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 13. Oktober.2017
 
-Ich habe heute alleine gearbeitet, weil Victoria gefehlt hat. Die Aufgabe der Lektion bestand darin ein sogenanntes Pinwheel zu erstellen. Hierzu konnte ich mir ein vorgefertigtes Script von de Webseite herunterladen. In dem Script konnte man einstellen wie viele Ecken das Pinwheel haben sollte und was für einen Winkel diese bildeten. Außerdem konnte man den Parameter für den Weg des Pfeils, den er wieder zurücklaufen muss, einstellen. Damit wird Einfluss auf die Länge der verlängerten Linie an den Ecken genommen. 
+Ich habe heute alleine gearbeitet, weil Victoria gefehlt hat. Die Aufgabe der Lektion bestand darin ein sogenanntes Pinwheel zu erstellen. Hierzu konnte ich mir ein vorgefertigtes Script von der Website herunterladen. In dem Script konnte man einstellen wie viele Ecken das Pinwheel haben soll und was für einen Winkel diese bildeten. Außerdem konnte man den Parameter für den Weg des Pfeils, den er wieder zurücklaufen muss, einstellen. Damit wird Einfluss auf die Länge der verlängerten Linie an den Ecken genommen. 
 Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asterik erstellen.
 
 ![13](https://user-images.githubusercontent.com/31760498/32268873-f8482876-bef0-11e7-9cbc-493ba3fc07f7.png)
@@ -160,7 +162,7 @@ Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asteri
 
 13. Oktober.2017
 
-Die nächste Stunde der Doppelstunde sollte ich das von mir in der letzten Stunde erstellte Script zu einem Asterik erweiten (genauer). Nach einigem Ausprobieren trat ein Problem auf. Ich konnte in dem Script bestimmte Parameter eingeben, damit ein Asterik entsteht. Auf der anderen Seite war es nicht mehr möglich ein Pinwheel zu zeichnen. Die Lösung bestand darin ein "-backup" einzufügen, weil der Pfeil den Weg auch wieder zurück gehen muss. 
+In der darauf folgenden Stunde baute die Aufgabe auf dem erstellten Script der letzten Stunde auf. Das Pinwheel sollte zu einem Asterik erweitert werden. Nach einigem Ausprobieren trat ein Problem auf. Ich konnte in dem Script bestimmte Parameter eingeben, damit ein Asterik entsteht. Auf der anderen Seite war es nicht mehr möglich ein Pinwheel zu zeichnen. Die Lösung bestand darin ein "-backup" einzufügen, weil der Pfeil den Weg auch wieder zurück gehen muss. 
 
 ![15](https://user-images.githubusercontent.com/31760498/32268875-f87fac7e-bef0-11e7-9503-98319d61fb95.png)
 
@@ -168,7 +170,7 @@ Die nächste Stunde der Doppelstunde sollte ich das von mir in der letzten Stund
 
 01. November.2017
 
-In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. Wir haben sofort mit der nächsten (Looping with a counter) weiter gemacht. Es ging darum spiralenförmige Formen zu erstellen. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind Figuren mit unterschiedlich vielen Ecken entstanden.
+In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. Die nächste Lektion "Looping with a counter" sollte uns beibringen spiralenförmige Formen zu erstellen. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind Figuren mit unterschiedlich vielen Ecken entstanden.
 
 ![16](https://user-images.githubusercontent.com/31760498/32269977-6843db18-bef4-11e7-8f35-9506c47be2e3.png)
 
@@ -182,7 +184,7 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 
 03. November.2017
 
-Im Lab 3: Following the Leader ist das Ziel zwei Pfeile zu programmieren. Ein Pfeil soll der Maus folgen, während der zweite Pfeil immer in die Richtung des ersten Pfeil zeigen soll. 
+Im Lab 3 "Following the Leader" ist das Ziel zwei Pfeile zu programmieren. Ein Pfeil soll der Maus folgen, während der zweite Pfeil immer in die Richtung des ersten Pfeils zeigen soll. 
 Um die Aufgabe zu erfüllen sollten wir das Script alleine bauen. Am Anfang des Scriptes haben wir einen „Hat-Block“ eingefügt. Dieser programmiert nicht für einen bestimmten Befehl, der ausgeführt werden soll, sondern bestimmt wann das Script die folgende Befehlsreihe ausführt. In unserem Fall passiert das beim Klicken des „Hat-Blockes“. Wir haben in den „go to x- Block“  mouseblöcke aus der Sensing Palette eingefügt, damit der erste Pfeil die Aufgabe erfüllt „forever“ der Computermaus zu folgen. Nach Einfügen eines Blockes aus der Motion Palette, hatten wir den zweiten Pfeil entsprechend seiner Aufgabe programmiert. Damit war Page 1 abgeschlossen.
 Die folgende Aufgabe bestand darin den „Forever-Block“ durch einen „Repeat until Touching Sprite 2“ ersetzten, sodass die Pfeile bei Berührung stehen bleiben. Beide Pfeile bewegen sich erst wieder, wenn man die Befehlsreihe durch Klicken des „Hat-Blockes“ erneut aktiviert.
 Das Endresultat des Labs waren zwei Pfeile von denen der zweite Pfeil den ersten verfolgt bis er ihn gefangen hat und beide stehen bleiben.

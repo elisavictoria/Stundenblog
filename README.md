@@ -56,25 +56,24 @@ In der heutigen Stunde haben wir gelernt, wie wir Screenshots in unser Repositor
 
 ![19](https://user-images.githubusercontent.com/31760498/32537821-38d774a0-c464-11e7-9ba0-d667e19948c2.png)
 
-Bei dieser Lernaktivität, die auf der Vorigen aufbaut, sollten wir mehrere Agenten im Spaceland verteilen und die Benutzung von globalen Variablen, Kollisionsblöcken und Textblöcken erlernen. Um eine benutzerdefinierte Anzahl von den Agenten zu erzeugen, haben wir eine globale Variable mit Slider verwendet. Mit "scatter" wurden die Agenten im Spaceland verteilt.
+Bei dieser Lernaktivität, die auf der vorigen aufbaut, sollten wir mehrere Agenten im Spaceland verteilen und die Benutzung von globalen Variablen, Kollisionsblöcken und Textblöcken erlernen. Um eine benutzerdefinierte Anzahl von den Agenten zu erzeugen, haben wir eine globale Variable mit Slider verwendet. Mit "scatter" wurden die Agenten im Spaceland verteilt.
 
 # 4. Stunde<a name="vier"></a>
 
 15.September.2017
 
-Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide haben uns darauf geeinigt einen Online Kurs zu absolvieren, um erst einmal Grundkenntnisse im Bereich des Programmierens zu erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. In  Folge dessen, hatten wir die Auswahl zwischen dem Kurs von "The Beauty and Joy of Computing" und "Applap", welche beide mit der Blockprogrammiersprache arbeiten. 
+Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide haben uns darauf geeinigt einen Online Kurs zu absolvieren, damit wir Grundkenntnisse im Bereich des Programmierens erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. Daraufhin beschlossen wir einen Kurs, welcher mit der Blockprogrammiersprache arbeitet, zu absolvieren. Zur Auswahl standen "The Beauty and Joy of Computing" und "Applap".
 Wir erstellten bei beiden Webseiten einen Account.
 
 # 5. Stunde<a name="fünf"></a>
 
 15.September.2017
 
-Als Erstes haben wir in dieser Stunde unseren Stundenblock weiter geschrieben. Außerdem haben wir uns entschieden mit dem Programm "The Beauty and Joy of Computing" das Programmieren zu erlernen. Wir haben unsere ersten Erfahrungen mit dem Programm gemacht, indem wir mit der Unit 1 "Introduction to Programming" angefangen haben.
+Am Anfang der Stunde haben wir weiter an unserem Stundenblog gearbeitet. Nach der letzten Stunde haben wir uns endgültig für einen der beiden Onlinekurse entschieden. Auf Grund Ihrer Empfehlung hinsichtlich des Schwierigkeitsgrades der Programme, fiel unsere Entscheidung auf "The Beauty and Joy of Computing". Wir haben erste Erfahrungen mit dem Programm gemacht und mit der Unit 1 "Introduction to Programming" angefangen. 
 Unsere erste Aufgabe bestand darin zwei Alonzo Kostüme zu erstellen.
 
 ![1](https://user-images.githubusercontent.com/31760498/30473090-59060e06-99ff-11e7-8997-a9bf30d6a8bc.png)
-
-Danach heben wir Alonzo so programmiert, dass er sein Kostüm ändert, wenn man ihn anklickt. 
+Dann haben wir einen kurzes Script gebaut, sodass Alonzo sein Kostüm ändert, wenn er angeklickt wird.
 
 ![2](https://user-images.githubusercontent.com/31760498/30473088-59024d3e-99ff-11e7-9bf6-172a6c2751d3.png)
 
@@ -82,9 +81,11 @@ Außerdem sollte er sich bei jedem Klicken an eine bestimmte Position bewegen.
 
 ![3](https://user-images.githubusercontent.com/31760498/30473089-5905a254-99ff-11e7-862c-d10e902d4d5c.png)
 
-Als letztes haben wir einen Auftrag für das Anklicken der grünen Flagge erstellt. 
+Als letztes haben wir einen Auftrag für das Anklicken der grünen Flagge erstellt. Beim Klicken der Flagge sollte Alonzo den Text wiedergeben, der in den "say-Block" eingefügt wurde.
 
 ![4](https://user-images.githubusercontent.com/31760498/30473087-58e5aab2-99ff-11e7-802a-68d22d91e3cb.png)
+
+Die ersten Erfolge der heutigen Stunde motivierten uns weiterhin mit Freude zu programmieren. :)
 
 # 6. Stunde<a name="sechs"></a>
 

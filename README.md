@@ -108,7 +108,7 @@ Alonzo sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hall
 
 Lab 1: Click Alonzo Game: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
 
-Den restlichen Teil der Stunde befassten wir uns mit Lab 2 von Unit 1 : Gossip and Greet.
+Den restlichen Teil der Stunde befassten wir uns mit Lab 2 von Unit 1 : "Gossip and Greet".
 Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen, indem wir eigene Costumes anstatt der Pfeile eingefügt haben. Diese Figuren haben wir so programmiert, dass sie "random" also zufällige Sätze bildeten und dadurch miteinander kommunizierten und einander antworteten, wenn man eine der beiden Figuren angeklickt hat. 
 
 # 8. Stunde<a name="acht"></a>

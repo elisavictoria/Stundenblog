@@ -191,7 +191,7 @@ Um die Aufgabe zu erfüllen sollten wir das Script alleine bauen. Am Anfang des 
 
 ![18](https://user-images.githubusercontent.com/31760498/32938711-67b1181a-cb7d-11e7-9237-d0666d63d7e9.png)
 
-![19](https://user-images.githubusercontent.com/31760498/32938710-6797d346-cb7d-11e7-98c4-9825b9ed0f71.png)
+![21](https://user-images.githubusercontent.com/31760498/32939575-3e2d8002-cb80-11e7-87fe-f2dbd5c3cb70.png)
 
 Die folgende Aufgabe bestand darin den „Forever-Block“ durch einen „Repeat until Touching Sprite 2“ zu ersetzten, sodass die Pfeile sobald sie sich berühren, sich nicht weiter bewegen. Beide Pfeile bewegen sich erst wieder, wenn man die Befehlsreihe durch Klicken des „Hat-Blockes“ erneut aktiviert.
 Das Endresultat des Labs waren zwei Pfeile von denen der zweite Pfeil den ersten verfolgt bis er ihn gefangen hat und beide stehen bleiben.

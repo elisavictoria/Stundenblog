@@ -199,4 +199,6 @@ In dieser Stunde haben  wir das Spiel Pong Student programmiert. Es geht darum, 
 
 Optional Project: The Game of Pong: http://snap.berkeley.edu/snapsource/snap.html#
 
+
+http://snap.berkeley.edu/snapsource/snap.html#
 Anleitung: http://bjc.berkeley.edu/website/curriculum.html

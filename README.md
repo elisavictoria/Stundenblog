@@ -44,13 +44,13 @@ Flappybird: https://studio.code.org/c/419859135
 
 8.September.2017 
 
-In der zweiten Stunde haben wir uns bei Github angemeldet und uns mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
+In der zweiten Stunde haben wir uns bei Github angemeldet und uns mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet, in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
 
 # 3. Stunde<a name="drei"></a>
 
 13.September.2017
 
-In der heutigen Stunde haben wir gelernt, wie wir Screenshots in unser Repository einfügen können. Dazu haben wir uns ein Video auf Youtube angesehen, indem beschrieben wurde, dass man ein Issue anlegen muss, um die Bilddatein hochzuladen. Den Rest der Stunde verbrachten wir damit unseren Stundenblock zu vervollständigen und die Bilder einzufügen. Die letzten 10 Minuten widmeten wir erneut dem Programm StarLogo und fingen die 2. Lernaktivität an.
+In der heutigen Stunde haben wir gelernt, wie wir Screenshots in unser Repository einfügen können. Dazu haben wir uns ein Video auf Youtube angesehen, indem beschrieben wurde, dass man ein Issue anlegen muss, um die Bilddatein hochzuladen. Das Bild wird in einen Link umgewandelt, der schließlich in die raw Version unseres Stundenprotokolls eingefügt werden kann und in der Endversion wieder als Bild erscheint. Den Rest der Stunde verbrachten wir damit unseren Stundenblock zu vervollständigen und die Bilder einzufügen. Die letzten 10 Minuten widmeten wir erneut dem Programm StarLogo und fingen die 2. Lernaktivität an.
 
 ![unbenannt](https://user-images.githubusercontent.com/31760498/32537780-1a29aeec-c464-11e7-93d7-8351636158ae.png)
 

@@ -42,13 +42,13 @@ Flappybird: https://studio.code.org/c/419859135
 
 # 2. Stunde<a name="zwei"></a>
 
-8.September.2017 
+8. September.2017 
 
 In der zweiten Stunde haben wir uns bei Github angemeldet und uns mit dem Programm bekannt gemacht. Anschließend haben wir eine Organisisation mit dem Namen elisavictoria gegründet und das Repository eröffnet, in dem wir unseren Stundenblock und unsere Projekte dokumentieren. Den Rest der Stunde haben wir mit dem Programm StarLogo TNG herum experimentiert und die von Ihnen zum Kennenlernen des Programms erstellte Lernaktivität 1 absolviert.
 
 # 3. Stunde<a name="drei"></a>
 
-13.September.2017
+13. September.2017
 
 In der heutigen Stunde haben wir gelernt, wie wir Screenshots in unser Repository einfügen können. Dazu haben wir uns ein Video auf Youtube angesehen, indem beschrieben wurde, dass man ein Issue anlegen muss, um die Bilddatein hochzuladen. Das Bild wird in einen Link umgewandelt, der schließlich in die raw Version unseres Stundenprotokolls eingefügt werden kann und in der Endversion wieder als Bild erscheint. Den Rest der Stunde verbrachten wir damit unseren Stundenblock zu vervollständigen und die Bilder einzufügen. Die letzten 10 Minuten widmeten wir erneut dem Programm StarLogo und fingen die 2. Lernaktivität an.
 
@@ -60,14 +60,14 @@ Bei dieser Lernaktivität, die auf der vorigen aufbaut, sollten wir mehrere Agen
 
 # 4. Stunde<a name="vier"></a>
 
-15.September.2017
+15. September.2017
 
 Heute hatten wir das Stundenziel uns auf ein Projekt festzulegen und unseren Stundenblog zu strukturieren. Wir beide haben uns darauf geeinigt einen Online Kurs zu absolvieren, damit wir Grundkenntnisse im Bereich des Programmierens erlangen. Im Laufe der letzten Stunden machten wir erste kleinere Programmierversuche mit Blockprogrammiersprache und es machte uns sehr viel Spaß. Daraufhin beschlossen wir einen Kurs, welcher mit der Blockprogrammiersprache arbeitet, zu absolvieren. Zur Auswahl standen "The Beauty and Joy of Computing" und "Applap".
 Wir erstellten bei beiden Webseiten einen Account.
 
 # 5. Stunde<a name="fünf"></a>
 
-15.September.2017
+15. September.2017
 
 Am Anfang der Stunde haben wir weiter an unserem Stundenblog gearbeitet. Nach der letzten Stunde haben wir uns endgültig für einen der beiden Onlinekurse entschieden. Auf Grund Ihrer Empfehlung hinsichtlich des Schwierigkeitsgrades der Programme, fiel unsere Entscheidung auf "The Beauty and Joy of Computing". Wir haben erste Erfahrungen mit dem Programm gemacht und mit der Unit 1 "Introduction to Programming" angefangen. 
 Unsere erste Aufgabe bestand darin zwei Alonzo Kostüme zu erstellen.
@@ -90,13 +90,13 @@ Die ersten Erfolge der heutigen Stunde motivierten uns weiterhin mit Freude zu p
 
 # 6. Stunde<a name="sechs"></a>
 
-20.September.2017
+20. September.2017
 
 In dieser Stunde haben wir unseren Stundenblock weiter verfasst und haben uns auf "Make it a game" aus Lab 1 vorbereitet, sodass wir in der nächsten Stunde gleich mit der Lektion anfangen konnten.
 
 # 7. Stunde<a name="sieben"></a>
 
-04.Oktober.2017
+04. Oktober.2017
 
 In dieser Lektion hatten wir die Aufgabe ein Spiel zu programmieren. Alonzo sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst ist also "forever". Wir hatten das Problem, dass Alonzo nachdem er komplett verblasst war, logischerweise nicht mehr sichtbar war und wir ihn natürlich nicht finden konnten.  Als wir jedoch die Zahl im Kommandoblock, der dafür zuständig war das er verblasst, mit einem Minuszeichen versehen haben, kam er wieder zum Vorschein. Mit der Aufgabe "Sharing your App" war der erste Lab abgeschlossen.
 
@@ -109,7 +109,7 @@ Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen
 
 # 8. Stunde<a name="acht"></a>
 
-06.Oktober.2017
+06. Oktober.2017
 
 In dieser Stunde haben wir die Personen aus der letzten Stunde weiter programmiert. Die zwei Figuren konnten letzendlich reden, wenn man sie angeklickt hat. Eine weitere Aufgabe war es, den Hintergrund zu verändern und andere Figuren auszuwählen. Als Hintergrundbild haben wir ein Bild aus dem Wald mit Tieren aus dem Internet rausgesucht. Für die Figuren haben wir das Mädchen und den Jungen aus den vorgeschlagenen Personen ausgewählt. 
 
@@ -121,7 +121,7 @@ Lab 2: Gossip and Greet: http://snap.berkeley.edu/snapsource/snap.html#present:U
 
 # 9. Stunde<a name="neun"></a>
 
-06.Oktober.2017
+06. Oktober.2017
 
 Jetzt haben wir Lab 2 abgeschlossen. Die letzte Anweisung konnten wir schnell abschließen. Wir haben zwei Personen programmiert, mit denen wir über ein Chatfeld kurze und einfache Konservationen führen konnten. Die Besonderheit bestand darin, dass sich das Programm schon einmal zuvor genannte Namen von uns merken konnte. Wenn man in dem Chatfeld also "Hallo hier ist Elisa" geschhrieben hatte, wurde man gefragt "Wie geht es dir Elisa?" Der Name wurde weiterhin gemerkt.
 
@@ -134,7 +134,7 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 
 # 10. Stunde<a name="zehn"></a>
 
-11.Oktober.2017
+11. Oktober.2017
 
 In dieser Stunde haben wir uns weiterhin mit der Lektion Modern Art beschäftigt. Als erstes haben wir Angles and Turning durchgearbeitet. Der Pfeil konnte sich in unterschiedlichen Graden und smit in unterschiedliche Richtungen bewegen. Dadurch entstanden spezielle Sechsecke.
 
@@ -147,7 +147,7 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 # 11. Stunde<a name="elf"></a>
 
-13.Oktober.2017
+13. Oktober.2017
 
 Ich habe heute alleine gearbeitet, weil Victoria gefehlt hat. Die Aufgabe der Lektion bestand darin ein sogenanntes Pinwheel zu erstellen. Hierzu konnte ich mir ein vorgefertigtes Script von de Webseite herunterladen. In dem Script konnte man einstellen wie viele Ecken das Pinwheel haben sollte und was für einen Winkel diese bildeten. Außerdem konnte man den Parameter für den Weg des Pfeils, den er wieder zurücklaufen muss, einstellen. Damit wird Einfluss auf die Länge der verlängerten Linie an den Ecken genommen. 
 Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asterik erstellen.
@@ -158,7 +158,7 @@ Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asteri
 
 # 12. Stunde<a name="zwölf"></a>
 
-13.Oktober.2017
+13. Oktober.2017
 
 Die nächste Stunde der Doppelstunde sollte ich das von mir in der letzten Stunde erstellte Script zu einem Asterik erweiten (genauer). Nach einigem Ausprobieren trat ein Problem auf. Ich konnte in dem Script bestimmte Parameter eingeben, damit ein Asterik entsteht. Auf der anderen Seite war es nicht mehr möglich ein Pinwheel zu zeichnen. Die Lösung bestand darin ein "-backup" einzufügen, weil der Pfeil den Weg auch wieder zurück gehen muss. 
 
@@ -166,7 +166,7 @@ Die nächste Stunde der Doppelstunde sollte ich das von mir in der letzten Stund
 
 # 13. Stunde<a name="dreizehn"></a>
 
-01.November.2017
+01. November.2017
 
 In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. Wir haben sofort mit der nächsten (Looping with a counter) weiter gemacht. Es ging darum spiralenförmige Formen zu erstellen. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind Figuren mit unterschiedlich vielen Ecken entstanden.
 
@@ -180,7 +180,7 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 
 # 14. Stunde<a name="vierzehn"></a>
 
-03.November.2017
+03. November.2017
 
 Im Lab 3: Following the Leader ist das Ziel zwei Pfeile zu programmieren. Ein Pfeil soll der Maus folgen, während der zweite Pfeil immer in die Richtung des ersten Pfeil zeigen soll. 
 Um die Aufgabe zu erfüllen sollten wir das Script alleine bauen. Am Anfang des Scriptes haben wir einen „Hat-Block“ eingefügt. Dieser programmiert nicht für einen bestimmten Befehl, der ausgeführt werden soll, sondern bestimmt wann das Script die folgende Befehlsreihe ausführt. In unserem Fall passiert das beim Klicken des „Hat-Blockes“. Wir haben in den „go to x- Block“  mouseblöcke aus der Sensing Palette eingefügt, damit der erste Pfeil die Aufgabe erfüllt „forever“ der Computermaus zu folgen. Nach Einfügen eines Blockes aus der Motion Palette, hatten wir den zweiten Pfeil entsprechend seiner Aufgabe programmiert. Damit war Page 1 abgeschlossen.

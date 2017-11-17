@@ -212,4 +212,4 @@ Anleitung: http://bjc.berkeley.edu/website/curriculum.html
 
 # Fazit<a name="fazit"></a>
 
-
+Nachdem wir die erste Unit "Introduction to Programming" weitestgehend abgeschlossen haben, haben wir einen guten Eindruck vom Programmieren bekommen. Das Programm ermöglicht einen Einblick in die Blockprogrammiersprache unter guter Anleitung. Auch wenn wir die einen oder anderen Probleme hinsichtilich der Anweisungen auf Englisch hatten, konnten wir die gestellten Aufgaben alle abschließen. Als nächstes Projekt planen wir auf der erlernten Grundlage eine eigene App zu programmieren.  

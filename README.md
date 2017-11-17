@@ -72,7 +72,8 @@ Wir erstellten bei beiden Webseiten einen Account.
 Am Anfang der Stunde haben wir weiter an unserem Stundenblog gearbeitet. Nach der letzten Stunde haben wir uns endgültig für einen der beiden Onlinekurse entschieden. Auf Grund Ihrer Empfehlung hinsichtlich des Schwierigkeitsgrades der Programme, fiel unsere Entscheidung auf "The Beauty and Joy of Computing". Wir haben erste Erfahrungen mit dem Programm gemacht und mit der Unit 1 "Introduction to Programming" angefangen. 
 Unsere erste Aufgabe bestand darin zwei Alonzo Kostüme zu erstellen.
 
-![1](https://user-images.githubusercontent.com/31760498/30473090-59060e06-99ff-11e7-8997-a9bf30d6a8bc.png)
+![1](https://user-images.githubusercontent.com/31760498/32936966-ab5ce4f6-cb76-11e7-84dd-8f6716625d1b.png)
+
 Dann haben wir einen kurzes Script gebaut, sodass Alonzo sein Kostüm ändert, wenn er angeklickt wird.
 
 ![2](https://user-images.githubusercontent.com/31760498/30473088-59024d3e-99ff-11e7-9bf6-172a6c2751d3.png)

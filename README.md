@@ -189,7 +189,7 @@ Um die Aufgabe zu erfüllen sollten wir das Script alleine bauen. Am Anfang des 
 Die folgende Aufgabe bestand darin den „Forever-Block“ durch einen „Repeat until Touching Sprite 2“ zu ersetzten, sodass die Pfeile sobald sie sich berühren, sich nicht weiter bewegen. Beide Pfeile bewegen sich erst wieder, wenn man die Befehlsreihe durch Klicken des „Hat-Blockes“ erneut aktiviert.
 Das Endresultat des Labs waren zwei Pfeile von denen der zweite Pfeil den ersten verfolgt bis er ihn gefangen hat und beide stehen bleiben.
 
-Lab 3: Follow the Leader: 
+Lab 3: Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L5-SpriteChase
 
 # 15. Stunde<a name="fünfzehn"></a>
 

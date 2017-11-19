@@ -154,7 +154,7 @@ Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele
 
 13. Oktober.2017
 
-Ich habe heute alleine gearbeitet, weil Victoria gefehlt hat. Die Aufgabe der Lektion bestand darin ein sogenanntes Pinwheel zu erstellen. Hierzu konnte ich mir ein vorgefertigtes Script von der Website herunterladen. In dem Script konnte man einstellen wie viele Ecken das Pinwheel haben soll und was für einen Winkel diese bildeten. Außerdem konnte man den Parameter für den Weg des Pfeils, den er wieder zurücklaufen muss, einstellen. Damit wird Einfluss auf die Länge der verlängerten Linie an den Ecken genommen. 
+Ich habe heute alleine gearbeitet, weil Victoria gefehlt hat. Die Aufgabe der Lektion bestand darin ein sogenanntes Pinwheel zu erstellen. Hierzu konnte ich mir ein vorgefertigtes Script von der Website herunterladen. In dem Script konnte man einstellen wie viele Ecken das Pinwheel haben soll und was für einen Winkel diese bildeten. Außerdem konnte man den Parameter für den Weg, den der Pfeil zurücklaufen muss, einstellen. Damit wird Einfluss auf die Länge der verlängerten Linie an den Ecken genommen. 
 Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asterik erstellen.
 
 ![13](https://user-images.githubusercontent.com/31760498/32268873-f8482876-bef0-11e7-9cbc-493ba3fc07f7.png)
@@ -165,7 +165,7 @@ Nachdem ich mit den Parametern herum experimentiert hatte, sollte ich ein Asteri
 
 13. Oktober.2017
 
-In der darauf folgenden Stunde baute die Aufgabe auf dem erstellten Script der letzten Stunde auf. Das Pinwheel sollte zu einem Asterik erweitert werden. Nach einigem Ausprobieren trat ein Problem auf. Ich konnte in dem Script bestimmte Parameter eingeben, damit ein Asterik entsteht. Auf der anderen Seite war es nicht mehr möglich ein Pinwheel zu zeichnen. Die Lösung bestand darin ein "-backup" einzufügen, weil der Pfeil den Weg auch wieder zurück gehen muss. 
+In der darauf folgenden Stunde baute die Aufgabe auf dem erstellten Script der letzten Stunde auf. Das Pinwheel sollte zu einem Asterik erweitert werden. Nach einigem Ausprobieren trat ein Problem auf. Ich konnte in dem Script bestimmte Parameter eingeben, damit ein Asterik entsteht. Auf der anderen Seite war es nicht mehr möglich ein Pinwheel zu zeichnen. Die Lösung bestand darin ein "-backup" einzufügen, weil der Pfeil den Weg auch wieder zurück gehen muss. Letztendlich war es möglich mit dem gleichen Script nur durch Änderung der Parameter in den Kommandoblöcken die zwei geometrischen Formen zu kreieren (Pinwheel und Asterisk).
 
 ![15](https://user-images.githubusercontent.com/31760498/32268875-f87fac7e-bef0-11e7-9503-98319d61fb95.png)
 
@@ -173,7 +173,7 @@ In der darauf folgenden Stunde baute die Aufgabe auf dem erstellten Script der l
 
 01. November.2017
 
-In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. In der nächsten Lektion "Looping with a counter" sollten wir spiralenförmige Formen erstellen. Als erstes haben wir uns einen speziellen "for-Block" heruntergeladen. Damit konnten wir das Script bauen und festlengen wie lang beziehungsweise groß die spirale wird. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind auch Figuren mit unterschiedlich vielen Ecken entstanden.
+In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. In der nächsten Lektion "Looping with a counter" sollten wir spiralenförmige Formen erstellen. Als erstes haben wir uns einen speziellen "for-Block" heruntergeladen. Damit konnten wir das Script bauen und festlengen wie lang beziehungsweise groß die Spirale wird. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind auch Figuren mit unterschiedlich vielen Ecken entstanden.
 
 ![16](https://user-images.githubusercontent.com/31760498/32269977-6843db18-bef4-11e7-8f35-9506c47be2e3.png)
 
@@ -203,7 +203,10 @@ Lab 5: Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#present:
 
 03. November.2017
 
-In dieser Stunde haben wir das Spiel Pong Student programmiert. Es geht darum, dass der Ball auf die Platte trifft und genauso wie der Einfallswinkel in der Richtung des Ausfallswinkels abprallt. Der Ball war sehr schnell. Deswegen haben wir versucht ihn langsamer zu programmieren und es geschafft, indem wir die Zahl der Schritte verändert haben, die sich der Ball immer durchgehend hintereinander bewegen soll. Das war die erste Lektion in der es keine ganz genaue Anleitung gab und wir viel ausprobieren mussten, bis es letztendlich so funktioniert hat, wie wir es uns vorgestellt haben. Außerdem haben wir versucht einen Zähler zu programmieren, der zählt wie oft der Ball vom Paddel abprallt. Und der Zähler sollte sich auf null zurücksetzen, wenn die Wand hinter dem Paddel berührt wird. 
+Zum Abschluss unserer Einführung in das Programmieren wollten wir uns an einer schwierigeren Aufgabe ausprobieren. Wir hatten uns als Ziel gesetzt das Spiel Pong zu programmieren. Das war die erste Lektion in der es keine genaue Anleitung gab und wir viel ausprobieren mussten. Zuerst wurde das Padel programmiert, das sich in dem Spielfeld durch Drücken der beiden ausgewählten Tasten nach oben und unten bewegen kann. Damit das Padel wieder die Richtung ändert, sobald es an einen Rand stößt, wurden Blöcke in das Script eingefügt, die diese Drehung des Padels von 90 Grad bei Berührung des Randes zur Folge haben. 
+Nachdem das Padel funktionierte, widmeten wir uns der schwierigeren Aufgabe den Ball zu programmieren. Wir hatten zum Glück die Möglichkeit uns Hilfe von Videos auf Youtube und der Webseite zu holen.
+Der Ball war sehr schnell. Deswegen haben wir versucht ihn langsamer zu programmieren und es geschafft, indem wir die Zahl der Schritte verändert haben, die sich der Ball immer durchgehend hintereinander bewegen soll. 
+An der Punktezählung sind wir leider gescheitert beziehungsweise unser Projekt ist bis jetzt noch nicht beendet. Wir haben auch noch vor ein zweites Padel zu programmieren, sodass zwei Spieler mitspielen können.
 
 ![20](https://user-images.githubusercontent.com/31760498/32938855-dd7ecdc6-cb7d-11e7-920c-d9d72fde31ca.png)
 

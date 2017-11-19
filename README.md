@@ -134,7 +134,7 @@ Danach begannen wir mit Lab 3. Wir sollten "Modern Art" kreieren, indem wir eine
 
 ![10](https://user-images.githubusercontent.com/31760498/31269139-82ed6698-aa7f-11e7-8068-e9e7a2814c27.png)
 
-Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria/berkeleyProjectName=modern%20art
+Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=modern%20art
 
 
 # 10. Stunde<a name="zehn"></a>

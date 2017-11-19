@@ -102,24 +102,25 @@ In dieser Stunde haben wir unseren Stundenblock weiter verfasst und haben uns au
 
 Die erste Aufgabe unserer Lektion von heute bestand darin ein Spiel zu programmieren. Wir erhoffen uns nach dem Absolvieren des gesamten
 Onlinekurses eine eigene App zu programmieren. Deswegen hat uns die Aufgabe sehr angesprochen.
-Alonzo sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Dies sollte solange passieren bis er komplett verblasst ist also "forever". Wir hatten das Problem, dass Alonzo nachdem er komplett verblasst war, logischerweise nicht mehr sichtbar war und wir ihn natürlich nicht finden konnten.  Als wir jedoch die Zahl im Kommandoblock, der dafür zuständig war das er verblasst, mit einem Minuszeichen versehen haben, kam er wieder zum Vorschein. Mit der Aufgabe "Sharing your App" war der erste Lab abgeschlossen.
+Alonzo sollte sich beim Anklicken um die horizontale Achse spiegeln, dabei "Hallo" sagen und langsam verblassen. Auf grund des "Forever-Blockes" war er irgendwann nicht mehr sichtbar. Deswegen haben wir den Block wieder entfernt, damit er nur blasser wird, wenn man ihn anklickt. Er wurde allerdings trotzdem irgendwann so blass, dass wir ihn nicht wiederfinden konnten. Letztendlich haben wir die Zahl in dem Block "change ghost effect by" mit einem Minuszeichen versehen. Dadurch wurde Alonzo mit jedem Klicken sichtbarer.
+Mit der Aufgabe "Sharing your App" war der erste Lab abgeschlossen.
 
 ![7](https://user-images.githubusercontent.com/31760498/31163329-37550cfc-a8e2-11e7-97d9-108520ab964a.png)
 
 Lab 1: Click Alonzo Game: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=evic
 
-Den restlichen Teil der Stunde befassten wir uns mit Lab 2 von Unit 1 : "Gossip and Greet".
+Den restlichen Teil der Stunde haben wir mit Lab 2 "Gossip and Greet" verbracht.
 Wir haben uns mit der Aufgabe vertraut gemacht und den ersten Teil abgeschlossen, indem wir eigene Costumes anstatt der Pfeile eingefügt haben. Diese Figuren haben wir so programmiert, dass sie "random" also zufällige Sätze bildeten und dadurch miteinander kommunizierten und einander antworteten, wenn man eine der beiden Figuren angeklickt hat. 
 
 # 8. Stunde<a name="acht"></a>
 
 06. Oktober.2017
 
-In dieser Stunde haben wir die Personen aus der letzten Stunde weiter programmiert. Die zwei Figuren konnten letzendlich reden, wenn man sie angeklickt hat. Eine weitere Aufgabe war es, den Hintergrund zu verändern und andere Figuren auszuwählen. Als Hintergrundbild haben wir ein Bild aus dem Wald mit Tieren aus dem Internet rausgesucht. Für die Figuren haben wir das Mädchen und den Jungen aus den vorgeschlagenen Personen ausgewählt. 
+In dieser Stunde haben wir die Personen aus der letzten Stunde weiter programmiert. Die zwei Figuren konnten letzendlich reden, wenn man sie angeklickt hat. Außerdem sollten wir den Hintergrund und die Firguren personalisieren. Als Hintergrundbild haben wir einen Wald mit Tieren aus dem Internet ausgesucht. Das Mädchen und der Junge sind Firguren des Programms gewesen, die wir als Costume ausgewählt haben. 
 
 ![9](https://user-images.githubusercontent.com/31760498/31267936-6adf232a-aa7a-11e7-8914-8e8d32038291.png)
 
-Die nächste Aufgabe bestand darin einen eigenen Block zu erstellen. Der Junge sollte auf die Aussagen des Mädchens antworten. Dazu mussten wir einen "Response-Block" programmieren. Der sollte ein "Reporter-Block" werden, also oval und kein Puzzelbolck, der sich an andere Blöcke anlagern kann. Nachdem wir Antwortmöglichkeiten nach dem Zufallsprinzip programmiert haben, konnte der Junge auf die Aussagen des Mädchens reagieren. Dazu muss man nur auf das Mädchen klicken und warten bis der Junge antwortet bzw. etwas sagt.
+Als nächstes sollten wir einen eigenen Block erstellen. Der Junge sollte auf die Aussagen des Mädchens antworten. Dazu mussten wir einen "Response-Block" programmieren. Dieser sollte ein "Reporter-Block" werden, also oval, damit er in einen anderen eingefügt werden kann, und kein Puzzelbolck, der sich an andere Blöcke anlagern kann. Die Sätze und Antworten wurden zufällig programmiert, dass heißt der Junge hat nach dem Zufallsprinzip auf die Sätze des Mädchens reagiert. Dementsprechend ist es nicht immer eine sinnvolle Kommunikation zwischen den beiden. Sobald man das Mädchen anklickt, fängt sie an etwas zu sagen und der Junge reagiert ohne Aufforderung dierekt auf das Gesagte.
 
 Lab 2: Gossip and Greet: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L2-Gossip
 
@@ -140,11 +141,11 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 
 11. Oktober.2017
 
-In dieser Stunde haben wir uns weiterhin mit der Lektion Modern Art beschäftigt. Als erstes haben wir "Angles and Turning" durchgearbeitet. Der Pfeil konnte sich in unterschiedlichen Graden und in unterschiedliche Richtungen bewegen. Dadurch entstanden spezielle Sechsecke.
+In dieser Stunde haben wir uns weiterhin mit der Lektion Modern Art beschäftigt. Als erstes haben wir "Angles and Turning" behandelt. Unsere Aufgabe war "sprite turning angeles" zu erstellen. Nachdem wir die Anweisungsblöcke zusammengesetzt hatten, sollten wir experimentieren, wie sich das Bild ändert, wenn wir die Gradzahl im "turn-Block" verändeten. Dadurch sind unterschiedlich große Sechsecke entstanden.
 
 ![11](https://user-images.githubusercontent.com/31760498/31426686-9b21aba0-ae64-11e7-8dae-ad374ecdaca8.png)
 
-Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele Zacken der Stern haben soll. Der Pfeil war so programmiert, dass er jedesmal zurück zum Ursprung gegangen ist. Als wir diese Funktion deaktivierten, entstand ein normales Sechseck. Und logischer Weise bei vier Wiederholungen ein Viereck. In dieser Stunde haben wir die Lektion Angles and Turning abgeschlossen.
+Danach haben wir sternförmige Kreise erstellt. Wir konnten aussuchen, wie viele Zacken der Stern haben soll. Der Pfeil war so programmiert, dass er jedesmal zurück zum Ursprung gegsprungen ist. Als wir diese Funktion deaktivierten, entstand ein normales Sechseck. Bei vier Wiederholungen entstand ein Viereck. Somit konnten wir ganz viele unterschiedliche Formen mit dem Pfeil kreiren. In dieser Stunde haben wir die Lektion Angeles and Turning abgeschlossen.
 
 ![12](https://user-images.githubusercontent.com/31760498/31426687-9b69a6a8-ae64-11e7-8610-63f754c15d44.png)
 
@@ -172,11 +173,11 @@ In der darauf folgenden Stunde baute die Aufgabe auf dem erstellten Script der l
 
 01. November.2017
 
-In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. Die nächste Lektion "Looping with a counter" sollte uns beibringen spiralenförmige Formen zu erstellen. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind Figuren mit unterschiedlich vielen Ecken entstanden.
+In dieser Stunde haben wir das erste Mal eine Lektion (Remix your pinwheel) übersprungen. In der nächsten Lektion "Looping with a counter" sollten wir spiralenförmige Formen erstellen. Als erstes haben wir uns einen speziellen "for-Block" heruntergeladen. Damit konnten wir das Script bauen und festlengen wie lang beziehungsweise groß die spirale wird. Dadurch, dass wir die Größe des Winkels bestimmen konnten, sind auch Figuren mit unterschiedlich vielen Ecken entstanden.
 
 ![16](https://user-images.githubusercontent.com/31760498/32269977-6843db18-bef4-11e7-8f35-9506c47be2e3.png)
 
-Letztendlich haben wir versucht eine Kreisspirale zu erzeugen, allerdings mussten wir eine Kombination aus der Größe des Winkels, der Länge und der Anzahl finden. Das haben wir aber nicht geschafft, sondern es sind nur einzelne Kreise entstanden.
+Letztendlich haben wir versucht eine Kreisspirale zu erzeugen. Dazu musste man eine ganz bestimmte Kombination aus der Größe des Winkels, der Länge und der Anzahl finden. Daran sind wir leider gescheitert. Bei uns sind nur einzelne Kreise entstanden aber keine Spiralen.
 
 ![17](https://user-images.githubusercontent.com/31760498/32269978-685e1adc-bef4-11e7-91c0-0ab98947d5c4.png)
 
@@ -186,7 +187,7 @@ Lab 3: Modern Art with Polygons: http://snap.berkeley.edu/snapsource/snap.html#p
 
 03. November.2017
 
-Im Lab 3 "Following the Leader" ist das Ziel zwei Pfeile zu programmieren. Ein Pfeil soll der Maus folgen, während der zweite Pfeil immer in die Richtung des ersten Pfeils zeigen soll. 
+Im Lab 5 "Following the Leader" ist das Ziel zwei Pfeile zu programmieren. Ein Pfeil soll der Maus folgen, während der zweite Pfeil immer in die Richtung des ersten Pfeils zeigen soll. 
 Um die Aufgabe zu erfüllen sollten wir das Script alleine bauen. Am Anfang des Scriptes haben wir einen „Hat-Block“ eingefügt. Dieser programmiert nicht für einen bestimmten Befehl, der ausgeführt werden soll, sondern bestimmt wann das Script die folgende Befehlsreihe ausführt. In unserem Fall passiert das beim Klicken des „Hat-Blockes“. Wir haben in den „go to x- Block“  mouseblöcke aus der Sensing Palette eingefügt. Damit der erste Pfeil die Aufgabe erfüllt ständig der Computermaus zu folgen, musste ein „forever-Block“ eingefügt werden. Nach Einfügen eines Blockes aus der Motion Palette, haben wir den zweiten Pfeil entsprechend seiner Aufgaben programmiert. Damit war Page 1 abgeschlossen.
 
 ![18](https://user-images.githubusercontent.com/31760498/32938711-67b1181a-cb7d-11e7-9237-d0666d63d7e9.png)
@@ -196,7 +197,7 @@ Um die Aufgabe zu erfüllen sollten wir das Script alleine bauen. Am Anfang des 
 Die folgende Aufgabe bestand darin den „Forever-Block“ durch einen „Repeat until Touching Sprite 2“ zu ersetzten, sodass die Pfeile sobald sie sich berühren, sich nicht weiter bewegen. Beide Pfeile bewegen sich erst wieder, wenn man die Befehlsreihe durch Klicken des „Hat-Blockes“ erneut aktiviert.
 Das Endresultat des Labs waren zwei Pfeile von denen der zweite Pfeil den ersten verfolgt bis er ihn gefangen hat und beide stehen bleiben.
 
-Lab 3: Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L5-SpriteChase
+Lab 5: Follow the Leader: http://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=U1L5-SpriteChase
 
 # 15. Stunde<a name="fünfzehn"></a>
 

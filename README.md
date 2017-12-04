@@ -32,8 +32,21 @@
 
 [Fazit](#fazit)
 
-# 1. Stunde<a name="eins"></a>
+1. Dezember.2017
 
+Während der letzten Stunden haben wir überlegt, was wir gerne als nächstes Projekt angehen wollten. Das Arbeiten mit dem Onlinekurs BJC hat uns zwar Spaß gemacht und den Umgang mit den Blöcken geschult, allerdings waren uns die Arbeitsschritte manchmal zu kurzschrittig. Grundsätzlich wollten wir gerne etwas eigenes Programmieren.
+Sie hatten uns auf den kleinen Computer Arduino hingewiesen mit dem nach Ihrer Aussage einige tolle Projekte auch für uns Einsteiger möglich waren. Nachdem wir uns im Internet informiert hatten, empfanden wir den Zusammenhang mit der Elektronik bei einem Projekt dieser Art nicht zutreffend. 
+Wir haben uns jetzt entschlossen bei unserem weiteren Vorgehen weiterhin mit der Programmiersprache Snap zu arbeiten und haben unser Projekt "Ping Pong Spiel" erneut aufgenommen.
+
+Die Padels waren sehr einfach zu programmieren. Man musste lediglich eine x-y-Koordinate festlegen, an welche das Padel bei Klicken der Fahne also bei Starten des Spiels bewegt werden soll. Anschließend wurden Blöcke für die vertikale Bewegung auf Kommando des Tippens einzelner Tasten eingefügt. Die Programmierung der padels war mit dem Einfügen von if on edge Blöcken abgeschlossen.
+
+Die schwierigere Aufgabe, bestand darin den Ball zu programmieren.
+Probleme: ball ist nicht obwohl wir den Block eingefügt haben von der wand abgeprallt bzw von der farbe die wir eingestellt hatten.
+sodass wir neues projekt angefangen haben
+
+
+
+# 1. Stunde<a name="eins"></a>
 8. September.2017
 
 Da wir keinerlei Vorkenntnisse im Programmieren aufweisen konnten, mussten wir uns erst einmal informieren was wir für Möglichkeiten als Anfänger haben. Auf Ihrem für uns zusammengesetllten Github Projekt stießen wir auf die Webseite code.org. Dort haben wir verschiedene Kurse ausprobiert und uns letztendlich dazu entschieden Flappybird zu programmieren. Das Programmieren der kleinen Änderungen in der App fiel uns durch die klaren Anweisungen des Kurses sehr leicht. Am Ende der Stunde hatten wir eine Abwandlung der klassischen Flappybird App entwickelt, bei der wir individuelle Töne einfügen konnten und programmieren konnten, dass der Hintergrund und die Spielfigur jedes Mal zufällig wechselt, sobald die Spielfigur eine grüne Röhre passiert.

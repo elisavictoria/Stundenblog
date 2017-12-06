@@ -1,4 +1,4 @@
-# Stundenblog: The Beauty and Joy of Computing
+# Stundenblog: The Beauty and Joy of Computing Snap Projekte
 
 [1. Stunde](#eins)
 
